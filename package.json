@@ -1,5 +1,5 @@
 {
-  "name": "TechBytes-Today",
+  "name": "techbytes-today",
   "private": true,
   "scripts": {
     "build": "nuxt build",
