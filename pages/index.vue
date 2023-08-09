@@ -1,12 +1,13 @@
 <template>
     <div>
-        <Navbar/>
+        <Navbar />
+        <Footer/>
 
     </div>
 </template>
 
 <script>
-  import { onMounted } from 'vue'
+import { onMounted } from 'vue'
 import { initFlowbite } from 'flowbite'
 
 // initialize components based on data attribute selectors
@@ -15,6 +16,4 @@ onMounted(() => {
 })
 </script>
 
-<style lang="scss" scoped>
-
-</style>
+<style lang="scss" scoped></style>
