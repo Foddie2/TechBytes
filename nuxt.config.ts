@@ -9,3 +9,16 @@ export default defineNuxtConfig({
     },
   },
 })
+const config = {
+  /* other configs omitted */
+  buildModules: [
+    'nuxt-vite'
+  ],
+  vite: {
+    /* options for vite */
+    vue: {
+      /* options for vite-plugin-vue2 */
+    },
+  }
+}
+
