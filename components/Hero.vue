@@ -1,11 +1,11 @@
 <template>
  <!-- component -->
 <section>
-	<div class="bg-black text-white py-20 ">
-		<div class="container mx-auto flex flex-col md:flex-row items-center my-12 md:my-24 px-4 pt-16 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-12 lg:px-4">
-			<div class="flex flex-col w-full lg:w-1/3 justify-center items-start p-8">
-				<h1 class="text-3xl md:text-5xl p-2 text-green-300 tracking-loose">TechBytes Today</h1>
-				<h2 class="text-3xl md:text-5xl leading-relaxed md:leading-snug mb-2">Space : The Timeless Infinity
+	<div class="bg-black text-white py-8 ">
+		<div class="container mx-auto flex flex-col md:flex-row items-center my-8 md:my-24 px-4 pt-16 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-12 lg:px-4">
+			<div class="flex flex-col w-full lg:w-1/3 justify-center items-start p-4">
+				<h1 class="text-3xl md:text-6xl p-2 text-green-300 tracking-loose">TechBytes Today</h1>
+				<h2 class="text-3xl md:text-6xl leading-relaxed md:leading-snug mb-2">Space : The Timeless Infinity
 				</h2>
 				<p class="text-sm md:text-base text-gray-50 mb-4">Explore your favourite events and
 					register now to showcase your talent and win exciting prizes.</p>
