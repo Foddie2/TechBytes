@@ -292,7 +292,7 @@
                         />
                       </svg>
       
-                      <span class="flex-1 text-gray-700">john@doe.com</span>
+                      <span class="flex-1 text-gray-700">Bensonagala@live.com</span>
                     </a>
                   </li>
       
@@ -316,7 +316,7 @@
                         />
                       </svg>
       
-                      <span class="flex-1 text-gray-700">0123456789</span>
+                      <span class="flex-1 text-gray-700">+254711974716</span>
                     </a>
                   </li>
       
@@ -344,7 +344,7 @@
                     </svg>
       
                     <address class="-mt-0.5 flex-1 not-italic text-gray-700">
-                      213 Lane, London, United Kingdom
+                      Donholm, Nairobi, Kenya
                     </address>
                   </li>
                 </ul>
@@ -375,7 +375,7 @@
               </p>
       
               <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
-                &copy; 2022 Company Name
+                &copy; 2023 TechBytes-today
               </p>
             </div>
           </div>
