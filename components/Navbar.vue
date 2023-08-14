@@ -231,9 +231,10 @@
     
   
   <style  scoped>
+  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
   .logo {
-    font-family: 'Arizonia', cursive;
-  }
+    font-family: 'Press Start 2P', cursive;
+}
   
   .backdrop-filter {
     backdrop-filter: blur(10px);

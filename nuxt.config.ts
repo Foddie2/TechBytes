@@ -12,7 +12,8 @@ export default defineNuxtConfig({
 const config = {
   /* other configs omitted */
   buildModules: [
-    'nuxt-vite'
+    'nuxt-vite',
+    '@nuxtjs/google-fonts'
   ],
   vite: {
     /* options for vite */

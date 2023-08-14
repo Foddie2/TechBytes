@@ -3,7 +3,7 @@
         <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
           <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
             <div>
-              <div class="flex justify-center text-teal-600 sm:justify-start">
+              <div class="flex justify-center text-green-600 sm:justify-start">
                 <a href="/" class="inline-flex items-center">
                   <svg fill="#000000" height="40px" width="40px" version="1.1" id="Icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" xml:space="preserve"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#00dc82" stroke-width="3.2"> <g> <path d="M4,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C5,13.4,4.6,13,4,13z"></path> <path d="M8,11c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1s1-0.4,1-1v-8C9,11.4,8.6,11,8,11z"></path> <path d="M12,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C13,6.4,12.6,6,12,6z"></path> <path d="M16,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C17,13.4,16.6,13,16,13z"></path> <path d="M20,9c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1s1-0.4,1-1V10C21,9.4,20.6,9,20,9z"></path> <path d="M24,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C25,6.4,24.6,6,24,6z"></path> <path d="M28,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C29,13.4,28.6,13,28,13z"></path> </g> </g><g id="SVGRepo_iconCarrier"> <g> <path d="M4,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C5,13.4,4.6,13,4,13z"></path> <path d="M8,11c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1s1-0.4,1-1v-8C9,11.4,8.6,11,8,11z"></path> <path d="M12,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C13,6.4,12.6,6,12,6z"></path> <path d="M16,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C17,13.4,16.6,13,16,13z"></path> <path d="M20,9c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1s1-0.4,1-1V10C21,9.4,20.6,9,20,9z"></path> <path d="M24,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C25,6.4,24.6,6,24,6z"></path> <path d="M28,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C29,13.4,28.6,13,28,13z"></path> </g> </g></svg>            <span class="logo ml-2 text-2xl font-bold tracking-wide text-gray-500">TechBytes</span>
                   <span class="text-gray-500 text-lg ml-2">
@@ -25,7 +25,7 @@
                     href="/"
                     rel="noreferrer"
                     target="_blank"
-                    class="text-teal-700 transition hover:text-teal-700/75"
+                    class="text-green-500 transition hover:text-green-500/75"
                   >
                     <span class="sr-only">Facebook</span>
                     <svg
@@ -48,7 +48,7 @@
                     href="/"
                     rel="noreferrer"
                     target="_blank"
-                    class="text-teal-700 transition hover:text-teal-700/75"
+                    class="text-green-500 transition hover:text-green-500/75"
                   >
                     <span class="sr-only">Instagram</span>
                     <svg
@@ -71,7 +71,7 @@
                     href="/"
                     rel="noreferrer"
                     target="_blank"
-                    class="text-teal-700 transition hover:text-teal-700/75"
+                    class="text-green-500 transition hover:text-green-500/75"
                   >
                     <span class="sr-only">Twitter</span>
                     <svg
@@ -92,7 +92,7 @@
                     href="/"
                     rel="noreferrer"
                     target="_blank"
-                    class="text-teal-700 transition hover:text-teal-700/75"
+                    class="text-green-500 transition hover:text-green-500/75"
                   >
                     <span class="sr-only">GitHub</span>
                     <svg
@@ -115,7 +115,7 @@
                     href="/"
                     rel="noreferrer"
                     target="_blank"
-                    class="text-teal-700 transition hover:text-teal-700/75"
+                    class="text-green-500 transition hover:text-green-500/75"
                   >
                     <span class="sr-only">Dribbble</span>
                     <svg
@@ -257,10 +257,10 @@
       
                       <span class="relative flex h-3 w-3">
                         <span
-                          class="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"
+                          class="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75"
                         ></span>
                         <span
-                          class="relative inline-flex h-3 w-3 rounded-full bg-red-500"
+                          class="relative inline-flex h-3 w-3 rounded-full bg-green-500"
                         ></span>
                       </span>
                     </a>
@@ -358,7 +358,7 @@
                 <span class="block sm:inline">All rights reserved.</span>
       
                 <a
-                  class="inline-block text-teal-600 underline transition hover:text-teal-600/75"
+                  class="inline-block text-green-600 underline transition hover:text-green-600/75"
                   href="/"
                 >
                   Terms & Conditions
@@ -367,7 +367,7 @@
                 <span>&middot;</span>
       
                 <a
-                  class="inline-block text-teal-600 underline transition hover:text-teal-600/75"
+                  class="inline-block text-green-600 underline transition hover:text-green-600/75"
                   href="/"
                 >
                   Privacy Policy
@@ -390,5 +390,10 @@
 </script>
 
 <style lang="scss" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.logo {
+  font-family: 'Press Start 2P', cursive;
+}
 
 </style>
