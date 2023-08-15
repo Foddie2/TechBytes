@@ -7,8 +7,8 @@
 				<h1 class="text-3xl md:text-6xl p-2 text-green-300 tracking-loose">TechBytes Today</h1>
 				<h2 class="text-3xl md:text-6xl leading-relaxed md:leading-snug mb-2">Endless IT Possibilities, Delivered.
 				</h2>
-				<p class="text-sm md:text-base text-gray-50 mb-4">Explore your favourite events and
-					register now to showcase your talent and win exciting prizes.</p>
+				<p class="text-sm md:text-base text-gray-50 mb-4">Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
+				</p>
 				<a href="#"
 					class="bg-transparent hover:bg-green-300 text-green-300 hover:text-black rounded shadow hover:shadow-lg py-2 px-4 border border-green-300 hover:border-transparent">
 					Explore Now</a>
