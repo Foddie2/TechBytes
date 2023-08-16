@@ -77,7 +77,7 @@
               <span class="logo ml-2 text-xl font-bold tracking-wide text-gray-900"
                 >TechBytes</span
               >
-              <span class="text-gray-500 text-lg ml-2"> today </span>
+              <!-- <span class="text-gray-500 text-lg ml-2"> today </span> -->
             </a>
           </div>
 
