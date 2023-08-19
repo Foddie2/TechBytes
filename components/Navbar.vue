@@ -8,76 +8,10 @@
     >
       <div class="relative flex items-center justify-between">
         <a href="/" class="inline-flex items-center">
-          <svg
-            fill="#000000"
-            height="30px"
-            width="30px"
-            version="1.1"
-            id="Icons"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            viewBox="0 0 32 32"
-            xml:space="preserve"
-          >
-            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-            <g
-              id="SVGRepo_tracerCarrier"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke="#00dc82"
-              stroke-width="3.2"
-            >
-              <g>
-                <path
-                  d="M4,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C5,13.4,4.6,13,4,13z"
-                ></path>
-                <path
-                  d="M8,11c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1s1-0.4,1-1v-8C9,11.4,8.6,11,8,11z"
-                ></path>
-                <path
-                  d="M12,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C13,6.4,12.6,6,12,6z"
-                ></path>
-                <path
-                  d="M16,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C17,13.4,16.6,13,16,13z"
-                ></path>
-                <path
-                  d="M20,9c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1s1-0.4,1-1V10C21,9.4,20.6,9,20,9z"
-                ></path>
-                <path
-                  d="M24,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C25,6.4,24.6,6,24,6z"
-                ></path>
-                <path
-                  d="M28,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C29,13.4,28.6,13,28,13z"
-                ></path>
-              </g>
-            </g>
-            <g id="SVGRepo_iconCarrier">
-              <g>
-                <path
-                  d="M4,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C5,13.4,4.6,13,4,13z"
-                ></path>
-                <path
-                  d="M8,11c-0.6,0-1,0.4-1,1v8c0,0.6,0.4,1,1,1s1-0.4,1-1v-8C9,11.4,8.6,11,8,11z"
-                ></path>
-                <path
-                  d="M12,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C13,6.4,12.6,6,12,6z"
-                ></path>
-                <path
-                  d="M16,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C17,13.4,16.6,13,16,13z"
-                ></path>
-                <path
-                  d="M20,9c-0.6,0-1,0.4-1,1v12c0,0.6,0.4,1,1,1s1-0.4,1-1V10C21,9.4,20.6,9,20,9z"
-                ></path>
-                <path
-                  d="M24,6c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1s1-0.4,1-1V7C25,6.4,24.6,6,24,6z"
-                ></path>
-                <path
-                  d="M28,13c-0.6,0-1,0.4-1,1v4c0,0.6,0.4,1,1,1s1-0.4,1-1v-4C29,13.4,28.6,13,28,13z"
-                ></path>
-              </g>
-            </g>
-          </svg>
-          <span class="logo ml-2 text-xl font-bold tracking-wide text-gray-900"
+
+            <svg fill="#000000" width="40px" height="40px" viewBox="0 0 24 24" role="img" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#50d370" stroke-width="2.4"><path d="M11.39.605C10.376 3.092 9.764 4.72 8.635 7.132c.693.734 1.543 1.589 2.923 2.554-1.484-.61-2.496-1.224-3.252-1.86C6.86 10.842 4.596 15.138 0 23.395c3.612-2.085 6.412-3.37 9.021-3.862a6.61 6.61 0 0 1-.171-1.547l.003-.115c.058-2.315 1.261-4.095 2.687-3.973 1.426.12 2.534 2.096 2.478 4.409a6.52 6.52 0 0 1-.146 1.243c2.58.505 5.352 1.787 8.914 3.844-.702-1.293-1.33-2.459-1.929-3.57-.943-.73-1.926-1.682-3.933-2.713 1.38.359 2.367.772 3.137 1.234-6.09-11.334-6.582-12.84-8.67-17.74zM22.898 21.36v-.623h-.234v-.084h.562v.084h-.234v.623h.331v-.707h.142l.167.5.034.107a2.26 2.26 0 0 1 .038-.114l.17-.493H24v.707h-.091v-.593l-.206.593h-.084l-.205-.602v.602h-.091"></path></g><g id="SVGRepo_iconCarrier"><path d="M11.39.605C10.376 3.092 9.764 4.72 8.635 7.132c.693.734 1.543 1.589 2.923 2.554-1.484-.61-2.496-1.224-3.252-1.86C6.86 10.842 4.596 15.138 0 23.395c3.612-2.085 6.412-3.37 9.021-3.862a6.61 6.61 0 0 1-.171-1.547l.003-.115c.058-2.315 1.261-4.095 2.687-3.973 1.426.12 2.534 2.096 2.478 4.409a6.52 6.52 0 0 1-.146 1.243c2.58.505 5.352 1.787 8.914 3.844-.702-1.293-1.33-2.459-1.929-3.57-.943-.73-1.926-1.682-3.933-2.713 1.38.359 2.367.772 3.137 1.234-6.09-11.334-6.582-12.84-8.67-17.74zM22.898 21.36v-.623h-.234v-.084h.562v.084h-.234v.623h.331v-.707h.142l.167.5.034.107a2.26 2.26 0 0 1 .038-.114l.17-.493H24v.707h-.091v-.593l-.206.593h-.084l-.205-.602v.602h-.091"></path></g></svg>
+
+          <span class="logo text-xl font-bold tracking-wide text-gray-900"
             >TechBytes</span
           >
           <!-- <span class="text-gray-500 text-lg ml-2"> today </span> -->
@@ -123,7 +57,7 @@
               >Blog
             </NuxtLink>
           </li> -->
-          <li class="relative parent text-gray-500 hover:text-orange-500 font-bold">
+          <li class="relative parent text-gray-500 hover:text-green-500 font-bold">
             <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
               <span>Services</span>
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
@@ -131,35 +65,35 @@
                   <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
                       <NuxtLink to="/services/consultancy">
-                        <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-violet-50">
+                        <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
                           Consultancy
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/system-development">
-                        <a href="/services/system-development" class="flex px-4 py-3 hover:bg-violet-50">
+                        <a href="/services/system-development" class="flex px-4 py-3 hover:bg-green-50">
                           System Development
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/technical-IT-support">
-                        <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-violet-50">
+                        <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-green-50">
                           Technical IT Support
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/warehouse-design">
-                        <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-violet-50">
+                        <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-green-50">
                           Warehouse Design
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/web-design-development">
-                        <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-violet-50">
+                        <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-green-50">
                           Web Design & Dev
                         </a>
                       </NuxtLink>
@@ -362,7 +296,7 @@
                       >Blog
                     </NuxtLink>
                   </li> -->
-                  <li class="relative parent text-gray-500 hover:text-orange-500 font-bold">
+                  <li class="relative parent text-gray-500 hover:text-green-500 font-bold">
                     <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
                       <span>Services</span>
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
@@ -370,35 +304,35 @@
                           <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
                             <li> 
                               <NuxtLink to="/services/consultancy">
-                                <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-violet-50">
+                                <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
                                   Consultancy
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/system-development">
-                                <a href="/services/system-development" class="flex px-4 py-3 hover:bg-violet-50">
+                                <a href="/services/system-development" class="flex px-4 py-3 hover:bg-green-50">
                                   System Development
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/technical-IT-support">
-                                <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-violet-50">
+                                <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-green-50">
                                   Technical IT Support
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/warehouse-design">
-                                <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-violet-50">
+                                <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-green-50">
                                   Warehouse Design
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/web-design-development">
-                                <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-violet-50">
+                                <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-green-50">
                                   Web Design & Dev
                                 </a>
                               </NuxtLink>
