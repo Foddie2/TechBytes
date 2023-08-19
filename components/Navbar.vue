@@ -116,6 +116,56 @@
               Contact
             </NuxtLink>
           </li>
+        <!--   <li>
+            <NuxtLink
+              to="/Blog"
+              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              >Blog
+            </NuxtLink>
+          </li> -->
+          <li class="relative parent text-gray-500 hover:text-orange-500 font-bold">
+            <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
+              <span>Services</span>
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
+                </a>
+                  <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
+                    <li> 
+                      <NuxtLink to="/services/consultancy">
+                        <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-violet-50">
+                          Consultancy
+                        </a>
+                      </NuxtLink>
+                    </li>
+                    <li> 
+                      <NuxtLink to="/services/system-development">
+                        <a href="/services/system-development" class="flex px-4 py-3 hover:bg-violet-50">
+                          System Development
+                        </a>
+                      </NuxtLink>
+                    </li>
+                    <li> 
+                      <NuxtLink to="/services/technical-IT-support">
+                        <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-violet-50">
+                          Technical IT Support
+                        </a>
+                      </NuxtLink>
+                    </li>
+                    <li>
+                      <NuxtLink to="/services/warehouse-design">
+                        <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-violet-50">
+                          Warehouse Design
+                        </a>
+                      </NuxtLink>
+                    </li>
+                    <li>
+                      <NuxtLink to="/services/web-design-development">
+                        <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-violet-50">
+                          Web Design & Dev
+                        </a>
+                      </NuxtLink>
+                    </li>
+                </ul>
+          </li>
           <li>
             <NuxtLink
               to="/Blog"
@@ -305,9 +355,59 @@
                       >Contact
                     </NuxtLink>
                   </li>
-                  <li>
+                 <!--  <li>
                     <NuxtLink
                       to="/blog"
+                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      >Blog
+                    </NuxtLink>
+                  </li> -->
+                  <li class="relative parent text-gray-500 hover:text-orange-500 font-bold">
+                    <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
+                      <span>Services</span>
+                          <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
+                        </a>
+                          <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
+                            <li> 
+                              <NuxtLink to="/services/consultancy">
+                                <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-violet-50">
+                                  Consultancy
+                                </a>
+                              </NuxtLink>
+                            </li>
+                            <li> 
+                              <NuxtLink to="/services/system-development">
+                                <a href="/services/system-development" class="flex px-4 py-3 hover:bg-violet-50">
+                                  System Development
+                                </a>
+                              </NuxtLink>
+                            </li>
+                            <li> 
+                              <NuxtLink to="/services/technical-IT-support">
+                                <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-violet-50">
+                                  Technical IT Support
+                                </a>
+                              </NuxtLink>
+                            </li>
+                            <li>
+                              <NuxtLink to="/services/warehouse-design">
+                                <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-violet-50">
+                                  Warehouse Design
+                                </a>
+                              </NuxtLink>
+                            </li>
+                            <li>
+                              <NuxtLink to="/services/web-design-development">
+                                <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-violet-50">
+                                  Web Design & Dev
+                                </a>
+                              </NuxtLink>
+                            </li>
+                        </ul>
+                  </li>
+                  <li>
+                    <NuxtLink
+                      to="/Blog"
                       class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
                       >Blog
                     </NuxtLink>
@@ -412,5 +512,22 @@ export default {
 
 .nav-link:hover::before {
   width: 100%;
+}
+@media only screen and (min-width: 768px) {
+  .parent:hover .child {
+    opacity: 1;
+    height: auto;
+    overflow: none;
+    transform: translateY(0);
+  }
+
+  .child {
+    position: absolute;
+    z-index: 2;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transform: translateY(-10%);
+  }
 }
 </style>
