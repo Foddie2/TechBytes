@@ -57,7 +57,7 @@
                     <li> 
                       <NuxtLink to="/services/system-development">
                         <a href="/services/system-development" class="flex px-4 py-3 hover:bg-green-50">
-                          System Development
+                          Software Development
                         </a>
                       </NuxtLink>
                     </li>
@@ -78,7 +78,7 @@
                     <li>
                       <NuxtLink to="/services/web-design-development">
                         <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-green-50">
-                          Web Design & Dev
+                          Web Design & Development
                         </a>
                       </NuxtLink>
                     </li>
@@ -223,7 +223,7 @@
                             <li> 
                               <NuxtLink to="/services/system-development">
                                 <a href="/services/system-development" class="flex px-4 py-3 hover:bg-green-50">
-                                  System Development
+                                  Software Development
                                 </a>
                               </NuxtLink>
                             </li>
@@ -244,7 +244,7 @@
                             <li>
                               <NuxtLink to="/services/web-design-development">
                                 <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-green-50">
-                                  Web Design & Dev
+                                  Web Design & Development
                                 </a>
                               </NuxtLink>
                             </li>
