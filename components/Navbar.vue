@@ -34,22 +34,7 @@
               Products
             </NuxtLink>
           </li>
-          <li>
-            <NuxtLink
-              to="/services"
-              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-            >
-              Services
-            </NuxtLink>
-          </li>
-          <li>
-            <NuxtLink
-              to="/contact"
-              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-            >
-              Contact
-            </NuxtLink>
-          </li>
+        
         <!--   <li>
             <NuxtLink
               to="/Blog"
@@ -61,7 +46,7 @@
             <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
-                  <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
+                  <ul class="child transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
                       <NuxtLink to="/services/consultancy">
                         <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
@@ -79,7 +64,7 @@
                     <li> 
                       <NuxtLink to="/services/technical-IT-support">
                         <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-green-50">
-                          Technical IT Support
+                          Technical & IT Support
                         </a>
                       </NuxtLink>
                     </li>
@@ -101,9 +86,17 @@
           </li>
           <li>
             <NuxtLink
+              to="/contact"
+              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+            >
+              How To
+            </NuxtLink>
+          </li>
+          <li>
+            <NuxtLink
               to="/Blog"
               class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
-              >Blog
+              >Portfolio
             </NuxtLink>
           </li>
           <div class="flex items-center space-x-4">
@@ -135,7 +128,7 @@
               href="tel:+254711974716"
               class="inline-flex items-center uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-10 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
             >
-              Call Us
+              Get started
             </a>
           </div>
         </ul>
@@ -207,20 +200,7 @@
                       >Products
                     </NuxtLink>
                   </li>
-                  <li>
-                    <NuxtLink
-                      to="/services"
-                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-                      >Services
-                    </NuxtLink>
-                  </li>
-                  <li>
-                    <NuxtLink
-                      to="/contact"
-                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-                      >Contact
-                    </NuxtLink>
-                  </li>
+                           
                  <!--  <li>
                     <NuxtLink
                       to="/blog"
@@ -250,7 +230,7 @@
                             <li> 
                               <NuxtLink to="/services/technical-IT-support">
                                 <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-green-50">
-                                  Technical IT Support
+                                  Technical & IT Support
                                 </a>
                               </NuxtLink>
                             </li>
@@ -272,9 +252,16 @@
                   </li>
                   <li>
                     <NuxtLink
+                      to="/contact"
+                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+                      >How To
+                    </NuxtLink>
+                  </li>
+                  <li>
+                    <NuxtLink
                       to="/Blog"
                       class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
-                      >Blog
+                      >Portfolio
                     </NuxtLink>
                   </li>
                   <li>
