@@ -21,7 +21,7 @@
           <li>
             <NuxtLink
               to="/about"
-              class="font-medium tracking-wide text-gray-500 hover:text-purple-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-purple-500 uppercase nav-link"
             >
               About
             </NuxtLink>
@@ -29,7 +29,7 @@
           <li>
             <NuxtLink
               to="/products"
-              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               Products
             </NuxtLink>
@@ -37,7 +37,7 @@
           <li>
             <NuxtLink
               to="/services"
-              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               Services
             </NuxtLink>
@@ -45,7 +45,7 @@
           <li>
             <NuxtLink
               to="/contact"
-              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               Contact
             </NuxtLink>
@@ -57,9 +57,8 @@
               >Blog
             </NuxtLink>
           </li> -->
-          <li class="relative parent text-gray-500 hover:text-green-500 font-bold">
-            <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
-              <span>Services</span>
+          <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase "> services
+            <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
                   <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
@@ -263,7 +262,7 @@
                   <li>
                     <NuxtLink
                       to="/about"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                     >
                       About
                     </NuxtLink>
@@ -271,21 +270,21 @@
                   <li>
                     <NuxtLink
                       to="/products"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                       >Products
                     </NuxtLink>
                   </li>
                   <li>
                     <NuxtLink
                       to="/services"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                       >Services
                     </NuxtLink>
                   </li>
                   <li>
                     <NuxtLink
                       to="/contact"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                       >Contact
                     </NuxtLink>
                   </li>
@@ -296,9 +295,8 @@
                       >Blog
                     </NuxtLink>
                   </li> -->
-                  <li class="relative parent text-gray-500 hover:text-green-500 font-bold">
-                    <a href="#" class="flex justify-between md:inline-flex p-4 items-center space-x-2">
-                      <span>Services</span>
+                  <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase "> services
+                    <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                         </a>
                           <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
