@@ -2,6 +2,7 @@
     <div>
         <Navbar />
         <Hero/>
+        <About/>    
         <Footer/>
 
     </div>
