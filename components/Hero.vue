@@ -1,7 +1,7 @@
 <template>
   <!-- component -->
   <section>
-    <div class="bg-black text-white py-8">
+    <div class="bg-stone-900 text-white py-8">
       <div
         class="container mx-auto flex flex-col md:flex-row items-center my-8 md:my-24 px-4 pt-16 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-12 lg:px-4"
       >
