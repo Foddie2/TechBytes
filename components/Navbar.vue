@@ -128,7 +128,7 @@
               href="tel:+254711974716"
               class="inline-flex items-center uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-10 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
             >
-              Get started
+              Get support
             </a>
           </div>
         </ul>
@@ -270,7 +270,7 @@
                         href="tel:+254711974716"
                         class="inline-flex items-center mt-7 uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-12 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
                       >
-                        Call Us
+                        Get support
                       </a>
                       <!--  <a href="/" class="text-green-500 hover:text-gray-500">
                           <svg viewBox="0 0 24 24" fill="currentColor" class="h-5">

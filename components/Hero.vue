@@ -6,8 +6,8 @@
         class="container mx-auto flex flex-col md:flex-row items-center my-8 md:my-24 px-4 pt-16 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-12 lg:px-4"
       >
         <div class="flex flex-col w-full lg:w-1/3 justify-center items-start p-4">
-          <h1 class="text-3xl md:text-6xl p-4 text-green-300 tracking-loose">
-            TechBytes Today
+          <h1 class="text-3xl md:text-md p-4 text-green-300 tracking-loose">
+            Powering future
           </h1>
           <h2 class="text-3xl md:text-6xl leading-relaxed md:leading-snug mb-2">
             Endless IT Possibilities, Delivered.
