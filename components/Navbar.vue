@@ -46,7 +46,7 @@
             <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
-                  <ul class="child transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
+                  <ul class="child bg-opacity-90 transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
                       <NuxtLink to="/services/consultancy">
                         <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
