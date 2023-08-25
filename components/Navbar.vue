@@ -31,7 +31,7 @@
               to="/products"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
-              Products
+              PC world
             </NuxtLink>
           </li>
         
@@ -42,7 +42,7 @@
               >Blog
             </NuxtLink>
           </li> -->
-          <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">IT services
+          <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">services
             <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
@@ -197,7 +197,7 @@
                     <NuxtLink
                       to="/products"
                       class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-                      >Products
+                      >PC World
                     </NuxtLink>
                   </li>
                            
@@ -208,7 +208,7 @@
                       >Blog
                     </NuxtLink>
                   </li> -->
-                  <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">IT services
+                  <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">services
                     <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                         </a>

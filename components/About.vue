@@ -1,182 +1,84 @@
 <template>
-    <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
-      <div class="flex flex-col mb-6 lg:flex-row md:mb-10">
-        <div class="lg:w-1/2">
-          <h2 class="max-w-md mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none xl:max-w-lg">
-            To conquer the space you must trust.
+  <section class="bg-white dark:bg-gray-900">
+    <div class="container px-6 py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
+        <!-- <h1 class="text-2xl font-semibold text-center text-gray-800 capitalize lg:text-3xl dark:text-white">explore our <br> awesome <span class="text-blue-500">Components</span></h1> -->
+        <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
+          <h2
+            class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+            <span class="relative inline-block">
+              We provide IT & Business solutions
+
+            </span>
+
           </h2>
-        </div>
-        <div class="lg:w-1/2">
-          <p class="text-base text-gray-700 md:text-lg">
-            For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective.
+          <p class="text-base text-gray-700">
+            Sweets'Pot as our slogan stipulates, <span class="italic hover:text-pink-700">a pot that bears goodies</span> is a passionate team
+            aimed at bridging the gaps left by the bakers to produce affordable cakes whilst taking into consideration health
+            issues. Our nature of affordability makes us a centre of choice for many, we yearn to maintain our cake standards,
+            designs, as well as adding new flavors to your taste accordingly.
           </p>
         </div>
-      </div>
-      <div class="grid gap-8 row-gap-10 sm:grid-cols-2 lg:grid-cols-4">
-        <div>
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
-            <svg class="w-7 h-7 text-deep-purple-accent-400" stroke-linecap="round" stroke-width="2" viewBox="0 0 24 24">
-              <circle cx="11" cy="13" fill="none" r="9" stroke="currentColor"></circle>
-              <path d=" M21.955,18.005c1.089,2.145,1.378,3.816,0.622,4.572C20.92,24.234,14.799,20.799,9,15S-0.234,3.08,1.423,1.423 C2.18,0.666,3.853,0.956,6,2.047" stroke="currentColor" fill="none"></path>
-            </svg>
-          </div>
-          <h6 class="mb-2 font-semibold leading-5">Our planet</h6>
-          <p class="mb-3 text-sm text-gray-900">
-            We choose to go to the moon, not because it's easy, but because it's hard.
-          </p>
-          <ul class="mb-4 -ml-1 space-y-2">
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Earth
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Space
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Humans
-            </li>
-          </ul>
-          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
+
+        <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
+            <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
+                <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                    </svg>
+                </span>
+
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Copy & paste components</h1>
+
+                <p class="text-gray-500 dark:text-gray-300">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
+                </p>
+
+                <a href="#" class="flex items-center -mx-1 text-sm text-blue-500 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500">
+                    <span class="mx-1">read more</span>
+                    <svg class="w-4 h-4 mx-1 rtl:-scale-x-100" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                </a>
+            </div>
+
+            <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
+                <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
+                    </svg>
+                </span>
+
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Zero Configuration</h1>
+
+                <p class="text-gray-500 dark:text-gray-300">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
+                </p>
+
+                <a href="#" class="flex items-center -mx-1 text-sm text-blue-500 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500">
+                    <span class="mx-1">read more</span>
+                    <svg class="w-4 h-4 mx-1 rtl:-scale-x-100" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                </a>
+            </div>
+
+            <div class="flex flex-col items-center p-6 space-y-3 text-center bg-gray-100 rounded-xl dark:bg-gray-800">
+                <span class="inline-block p-3 text-blue-500 bg-blue-100 rounded-full dark:text-white dark:bg-blue-500">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                    </svg>
+                </span>
+
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Simple & clean designs</h1>
+
+                <p class="text-gray-500 dark:text-gray-300">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
+                </p>
+
+                <a href="#" class="flex items-center -mx-1 text-sm text-blue-500 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500">
+                    <span class="mx-1">read more</span>
+                    <svg class="w-4 h-4 mx-1 rtl:-scale-x-100" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                </a>
+            </div>
         </div>
-        <div>
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
-            <svg class="w-7 h-7 text-deep-purple-accent-400" viewBox="0 0 24 24" stroke-linecap="round">
-              <path d="M2,10C2,5.029,6.47,1,12,1c5.379,0,10,4.029,10,9S15.712,23,12,23C8.212,23,2,14.971,2,10Z" fill="none" stroke-width="2" stroke="currentColor"></path>
-              <path d="M5,9a6.529,6.529,0,0,1,4.393,1.607C10.705,11.92,10,15,10,15a6.59,6.59,0,0,1-3.436-1.564C5.022,11.894,5,9,5,9Z" fill="none" stroke-width="1.5" stroke="currentColor"></path>
-              <path d="M19,9a6.523,6.523,0,0,0-4.392,1.608C13.3,11.92,14,15,14,15a6.59,6.59,0,0,0,3.436-1.564C18.978,11.894,19,9,19,9Z" fill="none" stroke-width="1.5" stroke="currentColor"></path>
-            </svg>
-          </div>
-          <h6 class="mb-2 font-semibold leading-5">Another life</h6>
-          <p class="mb-3 text-sm text-gray-900">
-            There can be no thought of finishing for "aiming for the stars".
-          </p>
-          <ul class="mb-4 -ml-1 space-y-2">
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Life
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Aliens
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Shrek
-            </li>
-          </ul>
-          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
-        </div>
-        <div>
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
-            <svg class="w-7 h-7 text-deep-purple-accent-400" stroke-linecap="round" stroke-width="2" viewBox="0 0 24 24">
-              <path d="M8.291,18.709,4.182,22.818c-.419.419-1.43.086-2.258-.742s-1.161-1.839-.742-2.258l4.11-4.11" fill="none" stroke="currentColor"></path>
-              <ellipse cx="19.078" cy="4.922" fill="none" rx="2.5" ry="4.95" stroke="currentColor" transform="translate(2.107 14.932) rotate(-45)"></ellipse>
-              <path d="M9.185,9.815,5.3,13.7c-.7.7-.143,2.382,1.238,3.762S9.6,19.4,10.3,18.7l3.885-3.885" fill="none" stroke="currentColor"></path>
-              <path d="M15.578,1.422,9.422,7.578c-.976.976-.2,3.335,1.732,5.268s4.292,2.708,5.268,1.732l6.156-6.156" fill="none" stroke="currentColor"></path>
-            </svg>
-          </div>
-          <h6 class="mb-2 font-semibold leading-5">Explore space</h6>
-          <p class="mb-3 text-sm text-gray-900">
-            We are all connected to the universe atomically, strong bonds.
-          </p>
-          <ul class="mb-4 -ml-1 space-y-2">
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Infinity
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Stars
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Black Holes
-            </li>
-          </ul>
-          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
-        </div>
-        <div>
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
-            <svg class="w-7 h-7 text-deep-purple-accent-400" stroke-linecap="round" stroke-width="2" viewBox="0 0 24 24">
-              <path d="M8,13l3,3,9.379-9.379a2.122,2.122,0,0,0,0-3h0a2.122,2.122,0,0,0-3,0Z" fill="none" stroke="currentColor"></path>
-              <polyline fill="none" points="10 11 10 6 6 2 3 5 7 9" stroke="currentColor"></polyline>
-              <polyline fill="none" points="15 12 15 17 19 21 22 18 18 14" stroke="currentColor"></polyline>
-              <path d="M8,23a7,7,0,0,1-7-7" fill="none" stroke="currentColor"></path>
-              <path d="M8,19a3,3,0,0,1-3-3" fill="none" stroke="currentColor"></path>
-            </svg>
-          </div>
-          <h6 class="mb-2 font-semibold leading-5">First contact</h6>
-          <p class="mb-3 text-sm text-gray-900">
-            For those who have seen the Earth from space or in dreams.
-          </p>
-          <ul class="mb-4 -ml-1 space-y-2">
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Listen
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Communicate
-            </li>
-            <li class="flex items-start">
-              <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
-                  <polygon stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
-                </svg>
-              </span>
-              Run
-            </li>
-          </ul>
-          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
-        </div>
-      </div>
     </div>
+</section>
   </template>
 
 <script>
