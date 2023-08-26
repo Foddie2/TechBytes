@@ -26,7 +26,7 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Copy & paste components</h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Technical & IT support</h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
@@ -45,7 +45,7 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Zero Configuration</h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Web development</h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
@@ -64,7 +64,7 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Simple & clean designs</h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Automation & process management</h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
