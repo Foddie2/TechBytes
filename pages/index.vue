@@ -3,6 +3,7 @@
         <Navbar />
         <Hero/>
         <About/> 
+        <Services/>
         <Contact/>   
         <Footer/>
 
