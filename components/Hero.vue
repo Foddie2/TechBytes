@@ -10,8 +10,7 @@
             Powering future
           </h1>
           <h2 class="text-3xl md:text-6xl leading-relaxed md:leading-snug mb-2">
-            Endless IT Possibilities, Delivered.
-          </h2>
+            Empowering Businesses through Technology          </h2>
           <p class="text-sm md:text-base text-green-50 mb-4">
             Where imagination meets innovation, We do everything with you in mind! We help
             you grow your business.

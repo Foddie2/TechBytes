@@ -4,9 +4,9 @@
 			<h2 class="text-2xl font-semibold sm:text-4xl">Frequently Asked Questions</h2>
 			<p class="mt-4 mb-8 dark:text-gray-400">Sagittis tempor donec id vestibulum viverra. Neque condimentum primis orci at lacus amet bibendum.</p>
 			<div class="space-y-4">
-				<details class="w-full border rounded-lg">
+				<details class="w-full border rounded-lg bg-green-50">
 					<summary class="px-4 py-6 focus:outline-none focus-visible:ri">Ex orci laoreet egestas sapien magna egestas scelerisque?</summary>
-					<p class="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400 ">Lectus iaculis orci metus vitae ligula dictum per. Nisl per nullam taciti at adipiscing est. </p>
+					<p class="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">Lectus iaculis orci metus vitae ligula dictum per. Nisl per nullam taciti at adipiscing est. </p>
 				</details>
 				<details class="w-full border rounded-lg">
 					<summary class="px-4 py-6 focus:outline-none focus-visible:ri">Lorem at arcu rutrum viverra metus sapien venenatis lobortis odio?</summary>
