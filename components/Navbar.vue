@@ -23,7 +23,7 @@
               to="/about"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
-              About
+              Our Story
             </NuxtLink>
           </li>
           <li>
@@ -176,7 +176,7 @@
                       to="/about"
                       class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                     >
-                      About
+                      Our Story
                     </NuxtLink>
                   </li>
                   <li>
