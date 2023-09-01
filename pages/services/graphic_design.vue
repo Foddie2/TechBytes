@@ -1,6 +1,8 @@
 <template>
     <div>
-        graphic
+        <Navbar/>
+        <AboutHero/>
+        <Footer/>
 
     </div>
 </template>

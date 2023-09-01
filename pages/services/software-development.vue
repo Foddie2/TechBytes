@@ -1,7 +1,8 @@
 <template>
     <div>
-        software dev
-
+<Navbar/>
+<AboutHero/>
+<Footer/>
     </div>
 </template>
 

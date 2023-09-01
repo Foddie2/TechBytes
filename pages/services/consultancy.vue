@@ -1,7 +1,8 @@
 <template>
     <div>
-        consultancy
-
+        <Navbar/>
+        <AboutHero/>
+        <Footer/>
     </div>
 </template>
 
