@@ -49,35 +49,35 @@
                   <ul class="child bg-opacity-90 transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
                       <NuxtLink to="/services/consultancy">
-                        <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
                           Consultancy
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/software-development">
-                        <a href="/services/software-development" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
                           Software Development
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/technical&IT_support">
-                        <a href="/services/technical&IT_support" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
                           Technical & IT Support
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/graphic_design">
-                        <a href="/services/graphic_design" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
                           Graphic Design
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/web_design&development">
-                        <a href="/services/web_design&development" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
                           Web Design & Development
                         </a>
                       </NuxtLink>
@@ -107,7 +107,7 @@
             >
               Get support
             </a> -->
-
+            <NuxtLink to="/contact">
             <a href="tel:+254711974716"
               class="px-5 py-2.5 relative rounded group font-medium text-white uppercase inline-block">
               <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-green-600 to-teal-500"></span>
@@ -116,6 +116,7 @@
               <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-green-600 from-teal-500"></span>
               <span class="relative">Get support</span>
               </a>
+            </NuxtLink>
           </div>
         </ul>
         <div class="lg:hidden">
@@ -201,35 +202,35 @@
                           <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
                             <li> 
                               <NuxtLink to="/services/consultancy">
-                                <a href="/services/consultancy" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
                                   Consultancy
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/software-development">
-                                <a href="/services/software-development" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
                                   Software Development
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/technical&IT_support">
-                                <a href="/services/technical&IT_support" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
                                   Technical & IT Support
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/graphic_design">
-                                <a href="/services/graphic_design" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
                                   Graphic Design
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/web_design&development">
-                                <a href="/services/web_design&development" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
                                   Web Design & Development
                                 </a>
                               </NuxtLink>
@@ -258,6 +259,7 @@
                       >
                         Get support
                       </a> -->
+                      <NuxtLink to="/contact">
                       <a href="tel:+254711974716"
                       class="px-5 py-2.5 relative rounded group font-medium text-white uppercase inline-block">
                       <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-green-600 to-teal-500"></span>
@@ -266,6 +268,7 @@
                       <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-green-600 from-teal-500"></span>
                       <span class="relative">Get support</span>
                       </a>
+                      </NuxtLink>
                   
                     </div>
                   </li>
