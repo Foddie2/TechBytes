@@ -1,7 +1,8 @@
 <template>
     <div>
-        technical 
-
+<Navbar/>
+<AboutHero/>
+<Footer/>
     </div>
 </template>
 
