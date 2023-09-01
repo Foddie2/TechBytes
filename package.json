@@ -13,7 +13,7 @@
     "@nuxtjs/google-fonts": "^3.0.2",
     "@types/node": "^18.17.1",
     "autoprefixer": "^10.4.14",
-    "nuxt": "^3.6.5",
+    "nuxt": "^3.7.0",
     "nuxt-vite": "^0.3.5",
     "postcss": "^8.4.27",
     "sass": "^1.65.1",
