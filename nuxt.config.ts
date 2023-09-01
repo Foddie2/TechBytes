@@ -8,6 +8,9 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
+  modules: [
+    '@nuxt/content'
+  ],
 })
 const config = {
   /* other configs omitted */
