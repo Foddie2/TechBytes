@@ -1,90 +1,71 @@
 <template>
-
-
-<section class="relative pt-16 bg-blueGray-50">
-<div class="container mx-auto">
-  <div class="flex flex-wrap items-center">
-    <div class="w-10/12 md:w-6/12 lg:w-4/12 px-12 md:px-4 mr-auto ml-auto -mt-78">
-      <div class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-pink-500">
-        <img alt="..." src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=700&amp;q=80" class="w-full align-middle rounded-t-lg">
-        <blockquote class="relative p-8 mb-4">
-          <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95" class="absolute left-0 w-full block h-95-px -top-94-px">
-            <polygon points="-30,95 583,95 583,65" class="text-pink-500 fill-current"></polygon>
-          </svg>
-          <h4 class="text-xl font-bold text-white">
-            Great for your awesome project
-          </h4>
-          <p class="text-md font-light mt-2 text-white">
-            Putting together a page has never been easier than matching
-            together pre-made components. From landing pages presentation
-            to login areas, you can easily customise and built your pages.
-          </p>
-        </blockquote>
-      </div>
-    </div>
-
-    <div class="w-full md:w-6/12 px-4">
-      <div class="flex flex-wrap">
-        <div class="w-full md:w-6/12 px-4">
-          <div class="relative flex flex-col mt-4">
-            <div class="px-4 py-5 flex-auto">
-              <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                <i class="fas fa-sitemap"></i>
-              </div>
-              <h6 class="text-xl mb-1 font-semibold">CSS Components</h6>
-              <p class="mb-4 text-blueGray-500">
-                Notus JS comes with a huge number of Fully Coded CSS
-                components.
-              </p>
-            </div>
-          </div>
-          <div class="relative flex flex-col min-w-0">
-            <div class="px-4 py-5 flex-auto">
-              <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                <i class="fas fa-drafting-compass"></i>
-              </div>
-              <h6 class="text-xl mb-1 font-semibold">
-                JavaScript Components
-              </h6>
-              <p class="mb-4 text-blueGray-500">
-                We also feature many dynamic components for React, NextJS,
-                Vue and Angular.
-              </p>
-            </div>
-          </div>
+  <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
+    <div class="flex flex-col lg:flex-row">
+      <div class="max-w-xl pr-16 mx-auto mb-10">
+        <h5 class="mb-6 text-3xl font-extrabold leading-none">
+          The quick, brown fox jumps over a lazy dog
+        </h5>
+        <p class="mb-6 text-gray-900">
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque rem aperiam, eaque ipsa quae. Sed ut unde omnis iste natus.
+        </p>
+        <div class="flex items-center">
+          <button
+            type="submit"
+            class="inline-flex items-center justify-center h-12 px-6 mr-6 font-medium tracking-wide text-white transition duration-200 rounded shadow-md bg-deep-purple-accent-400 hover:bg-deep-purple-accent-700 focus:shadow-outline focus:outline-none"
+          >
+            Get started
+          </button>
+          <a href="/" aria-label="" class="inline-flex items-center font-semibold transition-colors duration-200 text-deep-purple-accent-400 hover:text-deep-purple-800">Learn more</a>
         </div>
-        <div class="w-full md:w-6/12 px-4">
-          <div class="relative flex flex-col min-w-0 mt-4">
-            <div class="px-4 py-5 flex-auto">
-              <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                <i class="fas fa-newspaper"></i>
-              </div>
-              <h6 class="text-xl mb-1 font-semibold">Pages</h6>
-              <p class="mb-4 text-blueGray-500">
-                This extension also comes with 3 sample pages. They are
-                fully coded so you can start working instantly.
-              </p>
-            </div>
+      </div>
+      <div class="grid gap-5 row-gap-5 sm:grid-cols-2">
+        <div class="max-w-md">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+            <svg class="w-12 h-12 text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
           </div>
-          <div class="relative flex flex-col min-w-0">
-            <div class="px-4 py-5 flex-auto">
-              <div class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-white">
-                <i class="fas fa-file-alt"></i>
-              </div>
-              <h6 class="text-xl mb-1 font-semibold">Documentation</h6>
-              <p class="mb-4 text-blueGray-500">
-                Built by developers for developers. You will love how easy
-                is to to work with Notus JS.
-              </p>
-            </div>
+          <h6 class="mb-2 font-semibold leading-5">The deep ocean</h6>
+          <p class="text-sm text-gray-700">
+            A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.
+          </p>
+        </div>
+        <div class="max-w-md">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+            <svg class="w-12 h-12 text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
           </div>
+          <h6 class="mb-2 font-semibold leading-5">When has justice</h6>
+          <p class="text-sm text-gray-700">
+            Rough pomfret lemon shark plownose chimaera southern sandfish kokanee northern sea robin Antarctic cod. Yellow-and-black triplefin.
+          </p>
+        </div>
+        <div class="max-w-md">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+            <svg class="w-12 h-12 text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">Organically grow</h6>
+          <p class="text-sm text-gray-700">
+            A slice of heaven. O for awesome, this chocka full cuzzie is as rip-off as a cracker. Meanwhile, in behind the bicycle shed, Hercules.
+          </p>
+        </div>
+        <div class="max-w-md">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-indigo-50">
+            <svg class="w-12 h-12 text-deep-purple-accent-400" stroke="currentColor" viewBox="0 0 52 52">
+              <polygon stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" points="29 13 14 29 25 29 23 39 38 23 27 23"></polygon>
+            </svg>
+          </div>
+          <h6 class="mb-2 font-semibold leading-5">A slice of heaven</h6>
+          <p class="text-sm text-gray-700">
+            Disrupt inspire and think tank, social entrepreneur but preliminary thinking think tank compelling. Inspiring, invest synergy capacity.
+          </p>
         </div>
       </div>
     </div>
   </div>
-</div>
-
-</section>
 </template>
 
 <script>

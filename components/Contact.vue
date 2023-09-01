@@ -2,20 +2,20 @@
    <!-- component -->
 <div class="flex justify-center items-center h-screen bg-white">
 	<!-- COMPONENT CODE -->
-	<div class="container mx-auto my-4 max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
+	<div class="container mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-20 mb-12">
 
-		<div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
+		<div class="w-full p-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
 			<div class="flex">
 				<h1 class="font-bold uppercase text-5xl text-gray-800">Send us a <br /> message</h1>
 			</div>
-			<div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
-				<input class="w-full bg-green-50 text-green-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+			<div class="grid grid-cols-1 gap-3 md:grid-cols-2 mt-2">
+				<input class="w-full bg-green-50 text-green-900 mt-2 p-2 rounded-lg focus:outline-none focus:shadow-outline"
             type="text" placeholder="First Name*" />
-				<input class="w-full bg-green-50 text-green-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+				<input class="w-full bg-green-50 text-green-900 mt-2 p-2 rounded-lg focus:outline-none focus:shadow-outline"
             type="text" placeholder="Last Name*" />
-				<input class="w-full bg-green-50 text-green-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+				<input class="w-full bg-green-50 text-green-900 mt-2 p-2 rounded-lg focus:outline-none focus:shadow-outline"
             type="email" placeholder="Email*" />
-				<input class="w-full bg-green-50 text-green-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+				<input class="w-full bg-green-50 text-green-900 mt-2 p-2 rounded-lg focus:outline-none focus:shadow-outline"
             type="number" placeholder="Phone*" />
         </div>
 				<div class="my-4">
@@ -30,12 +30,11 @@
 			</div>
 
 			<div
-				class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-green-500 rounded-2xl">
+				class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-gradient-to-br from-green-400 to-teal-700 rounded-2xl">
 				<div class="flex flex-col text-white">
-					<h1 class="font-bold uppercase text-4xl my-4">Drop in our office</h1>
+					<h1 class="font-bold uppercase text-3xl my-2">Drop in our office</h1>
 					<p class="text-gray-100">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
 						tincidunt arcu diam,
-						eu feugiat felis fermentum id. Curabitur vitae nibh viverra, auctor turpis sed, scelerisque ex.
 					</p>
 
 					<div class="flex my-4 w-2/3 lg:w-1/2">
