@@ -20,7 +20,7 @@
         <ul class="items-center hidden space-x-8 lg:flex">
           <li>
             <NuxtLink
-              to="/about"
+              to="/our-story"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               Our Story
@@ -28,7 +28,7 @@
           </li>
           <li>
             <NuxtLink
-              to="/products"
+              to="/pc-world"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               PC world
@@ -56,28 +56,28 @@
                     </li>
                     <li> 
                       <NuxtLink to="/services/system-development">
-                        <a href="/services/system-development" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="/services/software-development" class="flex px-4 py-3 hover:bg-green-50">
                           Software Development
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/technical-IT-support">
-                        <a href="/services/technical-IT-support" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="/services/technical&IT_support" class="flex px-4 py-3 hover:bg-green-50">
                           Technical & IT Support
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
-                      <NuxtLink to="/services/warehouse-design">
-                        <a href="/services/warehouse-design" class="flex px-4 py-3 hover:bg-green-50">
+                      <NuxtLink to="/services/graphic_design">
+                        <a href="/services/graphic_design" class="flex px-4 py-3 hover:bg-green-50">
                           Graphic Design
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
-                      <NuxtLink to="/services/web-design-development">
-                        <a href="/services/web-design-development" class="flex px-4 py-3 hover:bg-green-50">
+                      <NuxtLink to="/services/web_design&development">
+                        <a href="/services/web_design&development" class="flex px-4 py-3 hover:bg-green-50">
                           Web Design & Development
                         </a>
                       </NuxtLink>
@@ -86,7 +86,7 @@
           </li>
           <li>
             <NuxtLink
-              to="/contact"
+              to="/how-to"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               How To
@@ -94,7 +94,7 @@
           </li>
           <li>
             <NuxtLink
-              to="/Blog"
+              to="/portfolio"
               class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
               >Portfolio
             </NuxtLink>
