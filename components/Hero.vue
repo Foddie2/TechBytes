@@ -15,6 +15,8 @@
             Where imagination meets innovation, We do everything with you in mind! We help
             you grow your business.
           </p>
+          <NuxtLink to="/our-story">
+
           <a class="relative inline-flex items-center px-12 py-3 my-5 overflow-hidden text-lg font-medium text-green-400 border-2 border-green-400 rounded-full hover:text-black group hover:bg-green-400">
             <span class="absolute left-0 block w-full h-0 transition-all bg-green-400 opacity-100 group-hover:h-full top-1/2 group-hover:top-0 duration-400 ease group-hover:bg-gradient-to-r from-[#4ade80] to-[#16f0de]"></span>
             <span class="absolute right-0 flex items-center justify-start w-10 h-10 duration-300 transform translate-x-full group-hover:translate-x-0 ease">
@@ -22,6 +24,7 @@
             </span>
             <span class="relative uppercase">Explore now</span>
             </a>
+          </NuxtLink>
         </div>
         <div class="p-8 mt-12 mb-6 md:mb-0 md:mt-0 ml-0 md:ml-12 lg:w-2/3 justify-center">
           <div class="h-48 flex flex-wrap content-center">

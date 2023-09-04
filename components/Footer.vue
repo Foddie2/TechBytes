@@ -175,25 +175,25 @@
             <ul class="mt-8 space-y-4 text-sm">
               <li>
                 <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
-                  Web Development
+                  Web Design Development
                 </a>
               </li>
 
               <li>
                 <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
-                  Web Design
+                  Technical support
                 </a>
               </li>
 
               <li>
                 <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
-                  Marketing
+                  Graphic Design
                 </a>
               </li>
 
               <li>
                 <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
-                  Google Ads
+                  Consultancy
                 </a>
               </li>
             </ul>
