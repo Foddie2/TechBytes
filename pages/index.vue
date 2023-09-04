@@ -11,8 +11,6 @@
 </template>
 
 <script>
-import { onMounted } from 'vue'
-import { initFlowbite } from 'flowbite'
 
 useSeoMeta({
   title: 'Home',
@@ -22,6 +20,11 @@ useSeoMeta({
   ogImage: '../src/img/sweetspot-logo.png',
 //   twitterCard: 'summary_large_image',
 })
+
+import { onMounted } from 'vue'
+import { initFlowbite } from 'flowbite'
+
+
 
 // initialize components based on data attribute selectors
 onMounted(() => {
