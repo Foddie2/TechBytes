@@ -28,7 +28,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-600 transition hover:text-green-500/75"
+                class="text-green-500 transition hover:text-green-500/75"
               >
                 <span class="sr-only">Facebook</span>
                 <svg
@@ -248,7 +248,7 @@
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="h-5 w-5 shrink-0 text-gray-900"
+                    class="h-5 w-5 shrink-0 text-green-500"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -272,7 +272,7 @@
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="h-5 w-5 shrink-0 text-gray-900"
+                    class="h-5 w-5 shrink-0 text-green-500"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -294,7 +294,7 @@
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  class="h-5 w-5 shrink-0 text-gray-900"
+                  class="h-5 w-5 shrink-0 text-green-500"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
