@@ -1,4 +1,4 @@
-An h1 header
+My blog
 ============
 
 Paragraphs are separated by a blank line.
