@@ -4,6 +4,7 @@
         <Hero/>
         <About/> 
         <Services/>
+        <Pricing/>
         <Contact/>   
         <Footer/>
 
