@@ -14,7 +14,8 @@
           <span class="logo text-xl font-bold tracking-wide text-stone-800"
             >TechBytes</span
           >
-          <!-- <span class="text-gray-500 text-lg ml-2"> today </span> -->
+          <br/>
+          <span class="text-gray-500 text-lg ml-2"> today </span>
         </a>
 
         <ul class="items-center hidden space-x-8 lg:flex">

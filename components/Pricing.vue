@@ -1,7 +1,6 @@
 <template>
   <!-- ====== Pricing Section Start -->
-<section class="relative z-10 overflow-hidden bg-white pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]"
->
+<section class="relative z-10 overflow-hidden bg-white pt-20 pb-12 lg:pt-[120px] lg:pb-[90px]">
 <div class="container mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
   <div class="-mx-4 flex flex-wrap">
     <div class="w-full px-4">
