@@ -39,21 +39,21 @@
               </div>
               <form>
                 <div class="form-group mb-4">
-                  <input type="text"
+                  <input id="text" type="text" v-model="text" 
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-pink-700 focus:outline-none"
-                    id="exampleInput7" placeholder="Name" />
+                   placeholder="Name" />
                 </div>
                 <div class="form-group mb-4">
-                  <input type="email"
+                  <input id="email" type="email" v-model="email" 
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-pink-700 focus:outline-none"
-                    id="exampleInput8" placeholder="Email address" />
+                     placeholder="Email address" />
                 </div>
                 <div class="form-group mb-4">
-                  <textarea
+                  <textarea  id="message" v-model="message" 
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-pink-700 focus:outline-none"
-                    id="exampleFormControlTextarea13" rows="3" placeholder="Message"></textarea>
+                   rows="3" placeholder="Message"></textarea>
                 </div>
-                <button type="submit"
+                <button type="submit" @click.prevent="send"
                   class="inline-flex items-center mt-7 uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-12 px-6 mr-6  tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid ">
                   Contact us
                 </button>
@@ -80,7 +80,19 @@
 
 <script>
 export default {
-
+  data: () => ({
+    email: '',
+    message: '',
+  }),
+  methods: {
+    send() {
+      this.$mail.send({
+        from: this.email,
+        subject: 'Contact form message',
+        text: this.message,
+      })
+    }
+  }
 }
 </script>
 

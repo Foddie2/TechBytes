@@ -21,7 +21,9 @@
     "tailwindcss": "^3.3.3"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
     "flowbite": "^1.8.1",
+    "nuxt-mail": "^4.0.1",
     "yarn": "^1.22.19"
   }
 }

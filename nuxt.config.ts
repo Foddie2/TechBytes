@@ -9,7 +9,23 @@ export default defineNuxtConfig({
     },
   },
   modules: [
-    '@nuxt/content'
+    '@nuxt/content',
+
+  //Sending mails configs
+   '@nuxtjs/axios',
+   ['nuxt-mail', {
+     message: {
+       to: 'bensonagala@live.com',
+     },
+     smtp: {
+       host: 'smtp.mailtrap.io',
+       port: 2525,
+       auth: {
+         user: 'username',
+         pass: 'password'
+       },
+     },
+   }],
   ],
    content: {
     // https://content.nuxtjs.org/api/configuration
