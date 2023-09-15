@@ -292,12 +292,6 @@ export default {
   },
 };
 
-const route = useRoute();
-
-const navigation = [
-  {name: 'name', }
-]
-
 </script>
 
 <style scoped>
