@@ -310,7 +310,7 @@ export default {
 }
 
 .nav-link {
-  background-image: linear-gradient(to right, #4ade80, #0d9488 50%, #000 50%);
+  background-image: linear-gradient(to right, #78f2b3, #03bdae 50%, #000 50%);
   background-size: 200% 100%;
   background-position: -100%;
   display: inline-block;
@@ -323,7 +323,7 @@ export default {
 
 .nav-link:before {
   content: "";
-  background: #4ade80;
+  background: #78f2b3;
   display: block;
   position: absolute;
   bottom: -3px;
