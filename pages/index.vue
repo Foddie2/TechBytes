@@ -5,6 +5,7 @@
         <About/> 
         <Services/>
         <Pricing/>
+        <ServiceHero/>
         <Contact/>   
         <Footer/>
 
