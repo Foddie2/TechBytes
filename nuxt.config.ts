@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
 
   //Sending mails configs
-   '@nuxtjs/axios',
+ /*   '@nuxtjs/axios',
    ['nuxt-mail', {
      message: {
        to: 'bensonagala@live.com',
@@ -25,23 +25,9 @@ export default defineNuxtConfig({
          pass: 'password'
        },
      },
-   }],
+   }], */
   ],
    content: {
     // https://content.nuxtjs.org/api/configuration
   }
 })
-const config = {
-  /* other configs omitted */
-  buildModules: [
-    'nuxt-vite',
-    '@nuxtjs/google-fonts'
-  ],
-  vite: {
-    /* options for vite */
-    vue: {
-      /* options for vite-plugin-vue2 */
-    },
-  }
-}
-
