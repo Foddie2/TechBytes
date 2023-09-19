@@ -16,7 +16,7 @@
                       d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
                       clip-rule="evenodd"></path>
                   </svg>
-                  <span>Riruta Area, Ndwaru Road</span>
+                  <span>Donholm Area, Nairobi</span>
                 </p>
                 <p class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
@@ -25,7 +25,7 @@
                       d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z"
                       clip-rule="evenodd"></path>
                   </svg>
-                  <span>P.O BOX 21200-00100,</span>
+                  <span>P.O BOX 30126 - 00100,</span>
                 </p>
                 <p class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
@@ -34,7 +34,7 @@
                       d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z">
                     </path>
                   </svg>
-                  <span> +254729830432 / +254740261022</span>
+                  <span> +254711974716</span>
                 </p>
               </div>
               <form>
@@ -53,14 +53,16 @@
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-pink-700 focus:outline-none"
                    rows="3" placeholder="Message"></textarea>
                 </div>
-                <button type="submit" @click.prevent="send"
-                  class="inline-flex items-center mt-7 uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-12 px-6 mr-6  tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid ">
-                  Contact us
-                </button>
-              <!--   <a href="tel:+254729830432"
-                  class="inline-flex items-center mt-7 uppercase font-bold bg-pink-700 hover:bg-white hover:text-pink-700 justify-center h-12 px-6 mr-6  tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid ">
-                  Call Us
-                </a> -->
+
+                <button
+                      class="px-5 py-2.5 mt-7 relative rounded group font-medium text-white uppercase inline-block">
+                      <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-green-600 to-teal-500"></span>
+                      <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-green-400 to-teal-400"></span>
+                      <span class="absolute inset-0 w-full h-full transition-all duration-200 ease-out rounded shadow-xl bg-gradient-to-br filter group-active:opacity-0 group-hover:blur-sm from-green-600 to-teal-500"></span>
+                      <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-green-600 from-teal-500"></span>
+                      <span class="relative">Contact</span>
+                      </button>
+          
               </form>
             </div>
           </div>
