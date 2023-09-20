@@ -2,6 +2,7 @@
     <div>
         <Navbar/>
         <AboutHero/>
+        <ConsultationPricing/>
         <Footer/>
     </div>
 </template>
