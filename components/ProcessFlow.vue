@@ -28,7 +28,7 @@
                 All recipes are written using certain conventions, which define our cake standards, designs, as well as adding new flavors to your taste accordingly.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
                   Get the Quotes
@@ -39,7 +39,7 @@
                 recipe. We prepare the quote at an affordable price and get the work done.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
                   Bake and deliver
