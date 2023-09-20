@@ -3,9 +3,10 @@
         <Navbar />
         <Hero/>
         <About/> 
-        <Services/>
-        <Pricing/>
+        <ProcessFlow/>
+        <!-- <Pricing/> -->
         <ServiceHero/>
+        <HomeBackground/>
         <Contact/>   
         <Footer/>
 

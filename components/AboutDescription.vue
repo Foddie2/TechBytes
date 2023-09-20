@@ -10,9 +10,9 @@
         >
           <div class="absolute left-0 bottom-0 w-full h-full z-10"
             style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
-          <img src="https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
+          <img src="https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
           <div class="p-4 absolute bottom-0 left-0 z-10">
-            <span class="px-4 py-1 bg-black text-gray-200 inline-flex items-center justify-center mb-2">Nutrition</span>
+            <span class="px-4 py-1 bg-green-400 text-gray-200 inline-flex items-center justify-center mb-2">Technology</span>
             <h2 class="text-4xl font-semibold text-gray-100 leading-tight">
               Pellentesque a consectetur velit, ac molestie ipsum. Donec sodales, massa et auctor.
             </h2>
@@ -34,9 +34,9 @@
         >
           <div class="absolute left-0 top-0 w-full h-full z-10"
             style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
-          <img src="https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
+          <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
           <div class="p-4 absolute bottom-0 left-0">
-            <span class="px-4 py-1 bg-pink-900 text-white inline-flex items-center justify-center mb-2">Science</span>
+            <span class="px-4 py-1 bg-green-400 text-white inline-flex items-center justify-center mb-2">Development</span>
             <h2 class="text-3xl font-semibold text-white leading-tight">Lorem ipsum dolor sit amet, consectetur
               adipisicing elit.</h2>
          <!--    <div class="flex mt-3">
