@@ -5,7 +5,7 @@
           <h2
             class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
             <span class="relative inline-block">
-              Software development & IT services 
+              We provide    Software development & IT services 
 
             </span>
 

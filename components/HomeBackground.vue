@@ -7,7 +7,7 @@
               <div class="flex justify-center items-center h-full">
                 <div class="text-center text-white px-6 md:px-12">
                   <h1 class="text-4xl md:text-5xl xl:text-6xl font-bold tracking-tight mb-12">
-                    The best offer on the market <br /><span>for your business</span>
+                    Innovative Technology for <br /><span>Innovative Businesses.</span>
                   </h1>
                 </div>
               </div>
