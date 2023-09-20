@@ -15,16 +15,18 @@
             Where imagination meets innovation, We do everything with you in mind! We help
             you grow your business.
           </p>
-          <NuxtLink to="/our-story">
+          
 
           <a class="relative inline-flex items-center px-12 py-3 my-5 overflow-hidden text-lg font-medium text-green-400 border-2 border-green-400 rounded-full hover:text-black group hover:bg-green-400">
             <span class="absolute left-0 block w-full h-0 transition-all bg-green-400 opacity-100 group-hover:h-full top-1/2 group-hover:top-0 duration-400 ease group-hover:bg-gradient-to-r from-[#78f2b3] to-[#16f0de]"></span>
             <span class="absolute right-0 flex items-center justify-start w-10 h-10 duration-300 transform translate-x-full group-hover:translate-x-0 ease">
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
             </span>
+            <NuxtLink to="/our-story">
             <span class="relative uppercase">Explore now</span>
-            </a>
           </NuxtLink>
+            </a>
+         
         </div>
         <div class="p-8 mt-12 mb-6 md:mb-0 md:mt-0 ml-0 md:ml-12 lg:w-2/3 justify-center">
           <div class="h-48 flex flex-wrap content-center">
