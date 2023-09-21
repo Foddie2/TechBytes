@@ -53,7 +53,7 @@
                     </button>
                 </div> -->
     
-                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
+                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-green-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
                         <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
                             Professional
@@ -93,7 +93,7 @@
                     </button>
                 </div>
     
-                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
+                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-green-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
                         <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
                             Expert
