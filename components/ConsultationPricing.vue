@@ -5,16 +5,16 @@
                 <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
 
                 <div class="mt-4">
-                    <span class="inline-block w-40 h-1 bg-blue-500 rounded-full"></span>
-                    <span class="inline-block w-3 h-1 mx-1 bg-blue-500 rounded-full"></span>
-                    <span class="inline-block w-1 h-1 bg-blue-500 rounded-full"></span>
+                    <span class="inline-block w-40 h-1 bg-green-500 rounded-full"></span>
+                    <span class="inline-block w-3 h-1 mx-1 bg-green-500 rounded-full"></span>
+                    <span class="inline-block w-1 h-1 bg-green-500 rounded-full"></span>
                 </div>
 
                 <p class="mt-4 font-medium text-gray-500 dark:text-gray-300">
                     You can get All Access by selecting your plan!
                 </p>
 
-             <!--    <a href="#" class="flex items-center mt-4 -mx-1 text-sm text-gray-700 capitalize dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-500">
+             <!--    <a href="#" class="flex items-center mt-4 -mx-1 text-sm text-gray-700 capitalize dark:text-green-400 hover:underline hover:text-green-600 dark:hover:text-green-500">
                     <span class="mx-1">read more</span>
                     <svg class="w-4 h-4 mx-1 rtl:-scale-x-100" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a> -->
@@ -23,7 +23,7 @@
             <div class="flex flex-col items-center justify-center space-y-8 lg:-mx-4 lg:flex-row lg:items-stretch lg:space-y-0">
               <!--   <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
-                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-blue-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
+                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
                             Casual
                         </h2>
                     </div>
@@ -48,14 +48,14 @@
                         </li>
                     </ul>
     
-                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-blue-500 rounded-lg hover:bg-blue-700 focus:outline-none">
+                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-500 rounded-lg hover:bg-green-700 focus:outline-none">
                         Start free
                     </button>
                 </div> -->
     
                 <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
-                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-blue-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
+                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
                             Professional
                         </h2>
                     </div>
@@ -88,14 +88,14 @@
                         </li>
                     </ul>
     
-                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-blue-500 rounded-lg hover:bg-blue-700 focus:outline-none">
+                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-500 rounded-lg hover:bg-green-700 focus:outline-none">
                         Start free trial
                     </button>
                 </div>
     
                 <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
-                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-blue-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
+                        <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-400 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
                             Expert
                         </h2>
                     </div>
@@ -132,7 +132,7 @@
                         </li>
                     </ul>
     
-                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-blue-500 rounded-lg hover:bg-blue-700 focus:outline-none">
+                    <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-500 rounded-lg hover:bg-green-700 focus:outline-none">
                         Start free trial
                     </button>
                 </div>

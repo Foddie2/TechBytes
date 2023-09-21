@@ -143,7 +143,7 @@
         <div class="w-full lg:w-1/3 px-3">
           <!-- topics -->
           <div class="mb-4">
-            <h5 class="font-bold text-lg uppercase text-gray-700 px-1 mb-2"> Popular Topics </h5>
+            <h5 class="font-bold text-lg uppercase text-gray-700 px-1 mb-2"> Popular Brands </h5>
             <ul>
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
