@@ -67,7 +67,7 @@
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
           <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
-            <h6 class="mb-2 font-semibold leading-5 uppercase">Network & CCTV Installation</h6>
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Network Installation</h6>
             <p class="text-md text-gray-900">
               A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear.
             </p>
