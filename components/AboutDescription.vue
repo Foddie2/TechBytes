@@ -148,7 +148,7 @@
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                   <span class="inline-block h-4 w-4 bg-green-300 mr-3"></span>
-                  Nutrition
+                  Apple
                   <span class="text-gray-500 ml-auto">23 articles</span>
                   <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                 </a>
@@ -156,7 +156,7 @@
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                   <span class="inline-block h-4 w-4 bg-indigo-300 mr-3"></span>
-                  Food & Diet
+                  Dell
                   <span class="text-gray-500 ml-auto">18 articles</span>
                   <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                 </a>
@@ -164,7 +164,7 @@
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                   <span class="inline-block h-4 w-4 bg-yellow-300 mr-3"></span>
-                  Workouts
+                  HP
                   <span class="text-gray-500 ml-auto">34 articles</span>
                   <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                 </a>
@@ -172,7 +172,7 @@
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
                   <span class="inline-block h-4 w-4 bg-blue-300 mr-3"></span>
-                  Immunity
+                  Lenovo
                   <span class="text-gray-500 ml-auto">9 articles</span>
                   <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>
                 </a>
