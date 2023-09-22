@@ -9,7 +9,7 @@
           <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900">
+                <p class="text-xl font-semibold text-gray-900 uppercase">
                   Choose a service
                 </p>
               </div>
@@ -20,7 +20,7 @@
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900">
+                <p class="text-xl font-semibold text-gray-900 uppercase">
                   Request a meeting
                 </p>
               </div>
@@ -30,7 +30,7 @@
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900">
+                <p class="text-xl font-semibold text-gray-900 uppercase">
                   Get custom plans
                 </p>
               </div>
@@ -41,7 +41,7 @@
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900">
+                <p class="text-xl font-semibold text-gray-9008 uppercase">
                   Successfully implement
                 </p>
               </div>
