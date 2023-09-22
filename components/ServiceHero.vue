@@ -43,7 +43,7 @@
       <div class="grid gap-8 row-gap-5 mb-8 md:row-gap-8 lg:grid-cols-4 sm:grid-cols-2">
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
           <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
-            <h6 class="mb-2 font-semibold leading-5">Web Development</h6>
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Web Development</h6>
             <p class="text-md text-gray-900">
               Sportacus andrew weatherall goose Refined gentlemen super mario des lynam alpha trion zap rowsdower.
             </p>
@@ -67,7 +67,7 @@
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
           <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
-            <h6 class="mb-2 font-semibold leading-5 uppercase">They urge you</h6>
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Network and CCTV Installation</h6>
             <p class="text-md text-gray-900">
               A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear.
             </p>
