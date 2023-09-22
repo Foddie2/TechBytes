@@ -10,7 +10,7 @@
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
-                  Get the recipe
+                  Choose a service
                 </p>
               </div>
               <p class="text-base text-gray-700">
@@ -21,7 +21,7 @@
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
-                  Choose the flavours
+                  Request a meeting
                 </p>
               </div>
               <p class="text-base text-gray-700">
@@ -31,7 +31,7 @@
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
-                  Get the Quotes
+                  Get custom plans
                 </p>
               </div>
               <p class="text-base text-gray-700">
@@ -42,7 +42,7 @@
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900">
-                  Bake and deliver
+                  Successfully implement
                 </p>
               </div>
               <p class="text-base text-gray-700">
