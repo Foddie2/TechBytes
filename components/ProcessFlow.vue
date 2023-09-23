@@ -2,7 +2,7 @@
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-5">
           <div class="relative md:col-span-2 lg:col-span-2">
-            <NuxtImg class="inset-0 object-cover object-bottom w-full h-56 rounded shadow-lg lg:absolute lg:h-full"
+            <img class="inset-0 object-cover object-bottom w-full h-56 rounded shadow-lg lg:absolute lg:h-full"
               src="https://images.pexels.com/photos/6636476/pexels-photo-6636476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt="" />
           </div>
