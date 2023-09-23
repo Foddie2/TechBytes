@@ -7,33 +7,33 @@
       </div>
       <div class="grid gap-8 row-gap-5 mb-8 md:row-gap-8 lg:grid-cols-4 sm:grid-cols-2">
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">The doctor said</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Managed services</h6>
+            <p class="text-md text-gray-900">
               Sportacus andrew weatherall goose Refined gentlemen super mario des lynam alpha trion zap rowsdower.
             </p>
-          </div>
+          </div>  
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">Skate ipsum dolor</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">IT Consulting & Advisory</h6>
+            <p class="text-md text-gray-900">
               Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
           </div>
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">Baseball ipsum dolor</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Data Backup & Recovery</h6>
+            <p class="text-md text-gray-900">
               Bro ipsum dolor sit amet gaper backside single track, manny Bike epic clipless. Schraeder drop gondy.
             </p>
           </div>
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">They urge you</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Technical & IT Support</h6>
+            <p class="text-md text-gray-900">
               A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear.
             </p>
           </div>
@@ -42,33 +42,33 @@
 
       <div class="grid gap-8 row-gap-5 mb-8 md:row-gap-8 lg:grid-cols-4 sm:grid-cols-2">
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">The doctor said</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Web Development</h6>
+            <p class="text-md text-gray-900">
               Sportacus andrew weatherall goose Refined gentlemen super mario des lynam alpha trion zap rowsdower.
             </p>
           </div>
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">Skate ipsum dolor</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Mobile Development</h6>
+            <p class="text-md text-gray-900">
               Bulbasaur Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
           </div>
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">Baseball ipsum dolor</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Process Automation</h6>
+            <p class="text-md text-gray-900">
               Bro ipsum dolor sit amet gaper backside single track, manny Bike epic clipless. Schraeder drop gondy.
             </p>
           </div>
         </div>
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-400 hover:-translate-y-2">
-          <div class="h-full p-5 border border-l-0 rounded-r shadow-sm">
-            <h6 class="mb-2 font-semibold leading-5">They urge you</h6>
-            <p class="text-sm text-gray-900">
+          <div class="h-full p-5 border border-l-0 rounded-r hover:shadow-xl">
+            <h6 class="mb-2 font-semibold leading-5 uppercase">Network Installation</h6>
+            <p class="text-md text-gray-900">
               A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear.
             </p>
           </div>
