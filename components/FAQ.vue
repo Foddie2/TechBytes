@@ -1,28 +1,173 @@
 <template>
-	<section class="dark:bg-gray-800 dark:text-gray-100">
-		<div class="container flex flex-col justify-center py-8 md:p-8 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
-			<h2 class="text-2xl font-semibold sm:text-4xl">Frequently Asked Questions</h2>
-			<p class="mt-4 mb-8 dark:text-gray-400">Sagittis tempor donec id vestibulum viverra. Neque condimentum primis orci at lacus amet bibendum.</p>
-			<div class="space-y-4">
-				<details class="w-full border rounded-lg bg-green-50">
-					<summary class="px-4 py-6 focus:outline-none focus-visible:ri">Ex orci laoreet egestas sapien magna egestas scelerisque?</summary>
-					<p class="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">Lectus iaculis orci metus vitae ligula dictum per. Nisl per nullam taciti at adipiscing est. </p>
-				</details>
-				<details class="w-full border rounded-lg">
-					<summary class="px-4 py-6 focus:outline-none focus-visible:ri">Lorem at arcu rutrum viverra metus sapien venenatis lobortis odio?</summary>
-					<p class="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">Tincidunt ut hac condimentum rhoncus phasellus nostra. Magna porttitor egestas tincidunt neque vehicula potenti. </p>
-				</details>
-				<details class="w-full border rounded-lg">
-					<summary class="px-4 py-6 focus:outline-none focus-visible:ri">Eleifend feugiat sollicitudin laoreet adipiscing bibendum suscipit erat?</summary>
-					<p class="px-4 py-6 pt-0 ml-4 -mt-4 dark:text-gray-400">Justo libero tellus integer tincidunt justo semper consequat venenatis aliquet imperdiet. Ultricies urna proin fusce nulla pretium sodales vel magna et massa euismod vulputate sed. </p>
-				</details>
-			</div>
+    <div class="max-w-screen-xl mx-auto px-5 bg-white min-h-sceen">
+	<div class="flex flex-col items-center">
+		<h2 class="font-bold text-5xl mt-5 tracking-tight">
+			FAQ
+		</h2>
+		<p class="text-neutral-500 text-xl mt-3">
+			Frequenty asked questions
+		</p>
+	</div>
+	<div class="grid divide-y divide-neutral-200 max-w-xl mx-auto mt-8">
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> What is a SAAS platform?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					 SAAS platform is a cloud-based software service that allows users to access
+					and use a variety of tools and functionality.
+				</p>
+			</details>
 		</div>
-	</section>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> How does  billing work?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					We offers a variety of billing options, including monthly and annual subscription plans,
+					as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit
+					card or other secure online payment method.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> Can I get a refund for my subscription?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					We offers a 30-day money-back guarantee for most of its subscription plans. If you are not
+					satisfied with your subscription within the first 30 days, you can request a full refund. Refunds
+					for subscriptions that have been active for longer than 30 days may be considered on a case-by-case
+					basis.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> How do I cancel my subscription?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					To cancel your We subscription, you can log in to your account and navigate to the
+					subscription management page. From there, you should be able to cancel your subscription and stop
+					future billing.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> Can I try this platform for free?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					We offers a free trial of its  platform for a limited time. During the trial period,
+					you will have access to a limited set of features and functionality, but you will not be charged.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> How do I access   documentation?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					  Documentation is available on the company's website and can be accessed by
+					logging in to your account. The documentation provides detailed information on how to use the ,
+					as well as code examples and other resources.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> How do I contact support?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					If you need help with the platform or have any other questions, you can contact the
+					company's support team by submitting a support request through the website or by emailing
+					support@We.com.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> Do you offer any discounts or promotions?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					We may offer discounts or promotions from time to time. To stay up-to-date on the latest
+					deals and special offers, you can sign up for the company's newsletter or follow it on social media.
+				</p>
+			</details>
+		</div>
+		<div class="py-5">
+			<details class="group">
+				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
+					<span> How do we compare to other similar services?</span>
+					<span class="transition group-open:rotate-180">
+                <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
+</svg>
+              </span>
+				</summary>
+				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
+					 This platform is a highly reliable and feature-rich service that offers a wide range
+					of tools and functionality. It is competitively priced and offers a variety of billing options to
+					suit different needs and budgets.
+				</p>
+			</details>
+		</div>
+	</div>
+</div>
 </template>
 
 <script>
     export default {
+        	extend: {
+    keyframes: {
+         fadeIn: {
+       "0%": { opacity: 0 },
+       "100%": { opacity: 100 },
+     },
+   },
+   animation: {
+         fadeIn: "fadeIn 0.2s ease-in-out forwards",
+       },
+     },
         
     }
 </script>
