@@ -9,7 +9,9 @@ export default defineNuxtConfig({
     },
   },
   modules: [
-    '@nuxt/content',
+    "@nuxt/content",
+    // "nuxt-newsletter",
+
 
   //Sending mails configs
  /*   '@nuxtjs/axios',

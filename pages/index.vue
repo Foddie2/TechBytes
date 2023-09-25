@@ -7,6 +7,7 @@
         <!-- <Pricing/> -->
         <ServiceHero/>
         <HomeBackground/>
+        <Testimonials/>
         <Contact/>   
         <Footer/>
 
@@ -17,6 +18,7 @@
 
 import { onMounted } from 'vue'
 import { initFlowbite } from 'flowbite'
+import Testimonials from '~/components/Testimonials.vue';
 
 
 
