@@ -83,14 +83,16 @@
 <script>
 export default {
   data: () => ({
+    text: '',
     email: '',
     message: '',
   }),
   methods: {
     send() {
       this.$mail.send({
-        from: this.email,
         subject: 'Contact form message',
+        from: this.text,
+        from: this.email,
         text: this.message,
       })
     }
