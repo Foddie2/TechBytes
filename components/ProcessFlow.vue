@@ -3,7 +3,7 @@
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-5">
           <div class="relative md:col-span-2 lg:col-span-2">
             <img class="inset-0 object-cover object-bottom w-full h-56 rounded shadow-lg lg:absolute lg:h-full"
-              src="https://images.pexels.com/photos/6636476/pexels-photo-6636476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://images.pexels.com/photos/48606/pexels-photo-48606.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=loadhttps://images.pexels.com/photos/42408/pexels-photo-42408.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
               alt="" />
           </div>
           <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
