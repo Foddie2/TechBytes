@@ -26,11 +26,10 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Technical & IT support</h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Competitive Advantage</h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
-                </p>
+                    In a competitive market, having top-notch IT infrastructure gives you an edge. Your business can respond faster to market changes and customer demands.                </p>
 
                 <a href="#" class="flex items-center -mx-1 text-sm text-green-600 capitalize transition-colors duration-300 transform dark:text-green-400 hover:underline hover:text-green-600 dark:hover:text-green-600">
                     <span class="mx-1">read more</span>
@@ -45,10 +44,10 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Web development</h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Enhanced Efficiency</h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
+                    IT services streamline processes and automate repetitive tasks, freeing up your employees to focus on more strategic, revenue-generating activities.
                 </p>
 
                 <a href="#" class="flex items-center -mx-1 text-sm text-green-600 capitalize transition-colors duration-300 transform dark:text-green-400 hover:underline hover:text-green-600 dark:hover:text-green-600">
@@ -64,11 +63,10 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Automation   </h1>
+                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white"> Cost Savings  </h1>
 
                 <p class="text-gray-600 dark:text-gray-300">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
-                </p>
+                    Outsourcing IT services can be more cost-effective than maintaining an in-house IT department. You'll have access to experts without the full-time salary costs.                </p>
 
                <!--  <a class="flex items-center -mx-1 text-sm text-green-600 capitalize transition-colors duration-300 transform dark:text-green-400 hover:underline hover:text-green-600 dark:hover:text-green-600">
                     <span class="mx-1">read more</span>
