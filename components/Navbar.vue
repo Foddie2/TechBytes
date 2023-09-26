@@ -292,6 +292,20 @@ export default {
   },
 };
 
+const route = useRoute();
+
+const navigation = [
+  {name: 'Home', href: '/', current: route.name =='index'},
+  {name: 'Blog', href: '/blog', current: route.name.includes ('blog')},
+  {name: 'our-story', href: '/our-story', current: route.name =='our-story'},
+  {name: 'pc-world', href: '/pc-world', current: route.name =='pc-world'},
+  {name: 'how-to', href: '/how-to', current: route.name =='how-to'},
+  {name: 'portfolio', href: '/portfolio', current: route.name =='portfolio'},
+
+
+
+]
+
 </script>
 
 <style scoped>

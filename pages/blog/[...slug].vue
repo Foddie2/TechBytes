@@ -1,6 +1,5 @@
 <template>
-    <p>{{ $route.params.slug }}</p>
     <main>
-      <ContentDoc />
+      <ContentDoc class="prose"/>
     </main>
   </template>
