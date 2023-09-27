@@ -56,16 +56,16 @@
                       </NuxtLink>
                     </li>
                     <li> 
-                      <NuxtLink to="/services/software-development">
+                      <NuxtLink to="/services/technical&IT-support">
                         <a href="" class="flex px-4 py-3 hover:bg-green-50">
-                          Software Development
+                          Technical & IT Support
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
-                      <NuxtLink to="/services/technical&IT-support">
+                      <NuxtLink to="/services/software-development">
                         <a href="" class="flex px-4 py-3 hover:bg-green-50">
-                          Technical & IT Support
+                          Software Development
                         </a>
                       </NuxtLink>
                     </li>
@@ -209,16 +209,16 @@
                               </NuxtLink>
                             </li>
                             <li> 
-                              <NuxtLink to="/services/software-development">
+                              <NuxtLink to="/services/technical&IT-support">
                                 <a href="" class="flex px-4 py-3 hover:bg-green-50">
-                                  Software Development
+                                  Technical & IT Support
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
-                              <NuxtLink to="/services/technical&IT-support">
+                              <NuxtLink to="/services/software-development">
                                 <a href="" class="flex px-4 py-3 hover:bg-green-50">
-                                  Technical & IT Support
+                                  Software Development
                                 </a>
                               </NuxtLink>
                             </li>
