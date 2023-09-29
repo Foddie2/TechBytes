@@ -12,71 +12,65 @@
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> What is a SAAS platform?</span>
+					<span> What is the cost of IT services?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
               </span>
 				</summary>
 				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
-					 SAAS platform is a cloud-based software service that allows users to access
-					and use a variety of tools and functionality.
+					The cost of IT services can vary widely depending on several factors, including the type of service, the scale of your business, your specific needs, at Techbytes, we provide cheap full support to scale up your business needs.
 				</p>
 			</details>
 		</div>
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> How does  billing work?</span>
+					<span> How can IT services benefit small businesses?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
               </span>
 				</summary>
 				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
-					We offers a variety of billing options, including monthly and annual subscription plans,
-					as well as pay-as-you-go pricing for certain services. Payment is typically made through a credit
-					card or other secure online payment method.
+					IT services offer numerous benefits to small businesses, helping them become more efficient, competitive, and secure.  Here are some ways in which our IT services can benefit small businesses: Cost Savings, Increased Productivity, Improved Security, Business Continuity, Scalability, Access to Expertise, Compliance and Data Protection, 24/7 Support, Innovation and Competitive Edge, Focus on Core Competencies, Remote Work Support, Customer Service Improvement 	
 				</p>
 			</details>
 		</div>
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> Can I get a refund for my subscription?</span>
+					<span> How can IT services benefit my business's overall productivity and efficiency?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
               </span>
 				</summary>
 				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
-					We offers a 30-day money-back guarantee for most of its subscription plans. If you are not
-					satisfied with your subscription within the first 30 days, you can request a full refund. Refunds
-					for subscriptions that have been active for longer than 30 days may be considered on a case-by-case
-					basis.
+					IT services can significantly benefit your business's overall productivity and efficiency in the following ways
+
+Streamlined Operations, Enhanced Communication, Increased Data Accessibility, Efficient Data Management, Scalability, Automated Tasks, Customer Relationship Management (CRM), Data Analytics, IT Support and Issue Resolution, Cloud Computing, Security Measures, Disaster Recovery, Proactive Monitoring, Compliance and Reporting, Business Intelligence.
 				</p>
 			</details>
 		</div>
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> How do I cancel my subscription?</span>
+					<span> What is managed IT services, and how does it work?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
               </span>
 				</summary>
 				<p class="text-neutral-600 mt-3 group-open:animate-fadeIn">
-					To cancel your We subscription, you can log in to your account and navigate to the
-					subscription management page. From there, you should be able to cancel your subscription and stop
-					future billing.
+					This involves outsourcing the management and maintenance of a business's IT infrastructure and systems to a third-party provider. The goal of managed IT services is to ensure the optimal functionality, security, and performance of a company's IT environment while allowing the business to focus on its core operations.
 				</p>
 			</details>
 		</div>
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> Can I try this platform for free?</span>
+					<span>Can you provide a roadmap for technology adoption and development for my business?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
@@ -91,7 +85,7 @@
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> How do I access   documentation?</span>
+					<span> Is 24/7 technical support included in your managed IT services package?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
@@ -107,7 +101,7 @@
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> How do I contact support?</span>
+					<span> Do you offer IT services for small businesses as well as large enterprises?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
@@ -123,7 +117,7 @@
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> Do you offer any discounts or promotions?</span>
+					<span> What makes your IT services different from other providers in the market?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
@@ -138,7 +132,7 @@
 		<div class="py-5">
 			<details class="group">
 				<summary class="flex justify-between items-center font-medium cursor-pointer list-none">
-					<span> How do we compare to other similar services?</span>
+					<span> Can you customize a managed IT services plan for my specific business needs?</span>
 					<span class="transition group-open:rotate-180">
                 <svg fill="none" height="24" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewBox="0 0 24 24" width="24"><path d="M6 9l6 6 6-6"></path>
 </svg>
