@@ -144,7 +144,7 @@ details[open] summary:after {
     width: 70em;
     margin: 4em auto;
     border-radius: 0.2em;
-    padding: 5em;
+    //padding: 5em;
     background-color: #fff;
 }
 
