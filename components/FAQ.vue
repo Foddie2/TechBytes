@@ -1,6 +1,6 @@
 <template>
     <body>
-        <div id="faq" class="faq-body">
+        <div id="faq" class="faq-body ">
           <div class="faq-header">
             <h3 class="faq-title">FAQ's</h3>
             <div class="seperator"></div>
