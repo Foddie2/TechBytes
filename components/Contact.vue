@@ -91,7 +91,7 @@ export default {
         subject: 'Contact form message',
         from: this.text,
         from: this.email,
-        text: this.message,
+        from: this.message,
       })
     }
   }

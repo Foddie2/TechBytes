@@ -14,7 +14,7 @@ export default defineNuxtConfig({
 
 
   //Sending mails configs
- /*   '@nuxtjs/axios',
+   '@nuxtjs/axios',
    ['nuxt-mail', {
      message: {
        to: 'bensonagala@live.com',
@@ -27,7 +27,7 @@ export default defineNuxtConfig({
          pass: 'password'
        },
      },
-   }], */
+   }], 
   ],
    content: {
     // https://content.nuxtjs.org/api/configuration
