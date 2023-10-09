@@ -14,20 +14,20 @@ export default defineNuxtConfig({
 
 
   //Sending mails configs
-   '@nuxtjs/axios',
-   ['nuxt-mail', {
-     message: {
-       to: 'bensonagala@live.com',
-     },
-     smtp: {
-       host: 'smtp.mailtrap.io',
-       port: 2525,
-       auth: {
-         user: 'username',
-         pass: 'password'
-       },
-     },
-   }], 
+  //  '@nuxtjs/axios',
+  //  ['nuxt-mail', {
+  //    message: {
+  //      to: 'bensonagala@live.com',
+  //    },
+  //    smtp: {
+  //      host: 'smtp.mailtrap.io',
+  //      port: 2525,
+  //      auth: {
+  //        user: 'username',
+  //        pass: 'password'
+  //      },
+  //    },
+  //  }], 
   ],
    content: {
     // https://content.nuxtjs.org/api/configuration
