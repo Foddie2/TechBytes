@@ -1,5 +1,5 @@
 <template>
-    <body>
+    <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
         <div id="faq" class="faq-body ">
           <div class="faq-header">
             <h3 class="faq-title">FAQ's</h3>
@@ -44,7 +44,8 @@
                 </div>
           </div>
         </div>
-    </body>
+            </div>
+
 </template>
 
 <script>

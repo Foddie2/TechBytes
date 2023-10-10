@@ -1,7 +1,6 @@
 <template>
     <div>
-        <AppHeader/>
-        <!-- <Navbar /> -->
+        <Navbar />
         <Hero/>
         <About/> 
         <ProcessFlow/>
@@ -20,7 +19,6 @@
 import { onMounted } from 'vue'
 import { initFlowbite } from 'flowbite'
 import Testimonials from '~/components/Testimonials.vue';
-import { AppHeader } from '#build/components';
 
 
 
