@@ -14,7 +14,7 @@ export default defineNuxtConfig({
 
 
   //Sending mails configs
-   '@nuxtjs/axios',
+  //  '@nuxtjs/axios',
     ['nuxt-mail', {
       message: {
         to: 'bensonagala@live.com',

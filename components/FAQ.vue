@@ -1,6 +1,6 @@
 <template>
-    <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
-        <div id="faq" class="faq-body ">
+    <div class="">
+        <div id="faq" class="faq-body mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
           <div class="faq-header">
             <h3 class="faq-title">FAQ's</h3>
             <div class="seperator"></div>
