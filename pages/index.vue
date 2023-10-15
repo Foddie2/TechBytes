@@ -6,7 +6,6 @@
         <AboutHome/>
 
         <ProcessFlow/>
-        <!-- <Pricing/> -->
         <ServiceHero/>
         <HomeBackground/>
         <Testimonials/>
