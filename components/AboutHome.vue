@@ -5,9 +5,9 @@
         >
           <div class="mx-auto max-w-xl text-center">
             <h1 class="text-6xl font-extrabold sm:text-5xl text-gray-900 about-us">
-              From our kitchen to yours
+                Digital transformation 
               <strong class="font-black text-green-700 sm:block">
-                – it’s cake time!
+                begins here.
               </strong>
             </h1>
             <p class="mt-4 text-lg text-gray-700 md:text-2xl">
