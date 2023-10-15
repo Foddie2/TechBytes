@@ -1,0 +1,33 @@
+<template>
+    <div class="bg-green-50">
+        <div
+          class="mx-auto max-w-screen-xl px-4 py-20 lg:flex lg:items-center  "
+        >
+          <div class="mx-auto max-w-xl text-center">
+            <h1 class="text-6xl font-extrabold sm:text-5xl text-gray-900 about-us">
+              From our kitchen to yours
+              <strong class="font-black text-green-700 sm:block">
+                – it’s cake time!
+              </strong>
+            </h1>
+            <p class="mt-4 text-lg text-gray-700 md:text-2xl">
+              Love is when you have a mouth-watering slice of cake, and it’s the very last piece, but you let your loved ones have it.
+            </p>
+          </div>
+        </div>
+      </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style lang="scss" scoped>
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+.about-us{
+  font-family: 'Fasthand', cursive;
+}
+
+</style>
