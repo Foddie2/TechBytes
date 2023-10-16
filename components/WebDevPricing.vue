@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white dark:bg-gray-900">
-        <div class="container px-6 py-8 mx-auto">
+        <div class="container px-6 py-8 mx-auto max-w-screen-xl pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
             <div class="flex flex-col items-center justify-center xl:items-start xl:mx-8 mb-8">
                 <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
 

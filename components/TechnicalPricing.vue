@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white dark:bg-gray-900">
-        <div class="container px-6 py-8 mx-auto">
+        <div class="container px-6 py-8 mx-auto max-w-screen-xl pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
             <div class="flex flex-col items-center justify-center space-y-8 lg:-mx-4 lg:flex-row lg:items-stretch lg:space-y-0">
                 <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-gray-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">

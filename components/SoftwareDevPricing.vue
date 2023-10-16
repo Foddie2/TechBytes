@@ -1,6 +1,6 @@
 <template>
     <div class="bg-white dark:bg-gray-900">
-        <div class="container px-6 py-8 mx-auto">
+        <div class="container px-6 py-8 mx-auto max-w-screen-xl first-letter:pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
             <div class="flex flex-col items-center justify-center xl:items-start xl:mx-8 mb-8">
                 <h1 class="text-2xl font-medium text-gray-800 capitalize lg:text-3xl dark:text-white">Our Pricing Plan</h1>
 
@@ -24,32 +24,44 @@
                 <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-green-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
                         <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-600 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
-                            Casual
+                            Basic
                         </h2>
                     </div>
     
                     <div class="flex-shrink-0">
                         <span class="pt-2 text-3xl font-bold text-gray-800 uppercase dark:text-gray-100">
-                            Free
+                            Ksh 18,999/=
                         </span>
                     </div>
     
                     <ul class="flex-1 space-y-4">
                         <li class="text-gray-500 dark:text-gray-400">
-                            Up to 5 projects
+                            Custom website design
+                        </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Basic Logo Design
+                        </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            FREE 2 Months Support                           </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Up to 5 pages
+                        </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            SEO Friendly.
+                        </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Mobile responsive
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
-                            Up to 10 collaborators
+                            Social Media Integration.
                         </li>
     
-                        <li class="text-gray-500 dark:text-gray-400">
-                            2Gb of storage
-                        </li>
+                        
                     </ul>
     
                     <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-600 rounded-lg hover:bg-green-700 focus:outline-none">
-                        Start free
+                        Get started
                     </button>
                 </div>
     
@@ -62,25 +74,36 @@
     
                     <div class="flex-shrink-0">
                         <span class="pt-2 text-3xl font-bold text-gray-800 uppercase dark:text-gray-100">
-                            $24.90
+                            Ksh 45,999/=
                         </span>
                         
-                        <span class="text-gray-500 dark:text-gray-400">
+                       <!--  <span class="text-gray-500 dark:text-gray-400">
                             /month
-                        </span>
+                        </span> -->
                     </div>
     
                     <ul class="flex-1 space-y-4">
                         <li class="text-gray-500 dark:text-gray-400">
-                            Up to 10 projects
+                            All Basic Services Plus:
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
-                            Up to 20 collaborators
+                            Professional Logo Design
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
-                            10Gb of storage
+                            Content writing for 3 blog posts or pages
+                        </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Up To 15 pages
+                        </li>
+    
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Webmaster / Analytics Setup
+                        </li>
+    
+                        <li class="text-gray-500 dark:text-gray-400">
+                            Contact forms integration.
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
@@ -89,7 +112,7 @@
                     </ul>
     
                     <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-600 rounded-lg hover:bg-green-700 focus:outline-none">
-                        Start free trial
+                        Get started
                     </button>
                 </div>
     
@@ -102,30 +125,38 @@
     
                     <div class="flex-shrink-0">
                         <span class="pt-2 text-3xl font-bold text-gray-800 uppercase dark:text-gray-100">
-                            $49.90
+                            Ksh 85,999/=
                         </span>
     
-                        <span class="text-gray-500 dark:text-gray-400">
+                      <!--   <span class="text-gray-500 dark:text-gray-400">
                             /month
-                        </span>
+                        </span> -->
                     </div>
     
                     <ul class="flex-1 space-y-4">
                         <li class="text-gray-500 dark:text-gray-400">
-                            Unlimited projects
+                            All Professional Services Plus:
                         </li>
                         
                         <li class="text-gray-500 dark:text-gray-400">
-                            Unlimited collaborators
+                            Branding Design package
                         </li>
                         
                         <li class="text-gray-500 dark:text-gray-400">
-                            Unlimited storage
+                            Content writing for 5 Blog posts or Pages
                         </li>
                         
                         <li class="text-gray-500 dark:text-gray-400">
-                            Real-time collaborations
+                            Up-to 30 pages
                         </li>
+                        <li class="text-gray-500 dark:text-gray-400">
+                            SEO on-page & Image optimization
+                        </li>
+                        
+                        <li class="text-gray-500 dark:text-gray-400">
+                            3 months of customer support.
+                        </li>
+                    
                         
                         <li class="text-gray-500 dark:text-gray-400">
                             24x7 Support
@@ -133,7 +164,7 @@
                     </ul>
     
                     <button class="inline-flex items-center justify-center px-4 py-2 font-medium text-white uppercase transition-colors bg-green-600 rounded-lg hover:bg-green-700 focus:outline-none">
-                        Start free trial
+                        Get started
                     </button>
                 </div>
             </div>
