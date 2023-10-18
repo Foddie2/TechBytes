@@ -10,11 +10,7 @@
 </template>
 
 <script>
-import OurStoryHero from './OurStoryHero.vue';
 
-    export default {
-    components: { OurStoryHero }
-}
 </script>
 
 <style lang="scss" scoped>
