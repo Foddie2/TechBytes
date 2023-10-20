@@ -1,7 +1,8 @@
 <template>
     <div>
 <Navbar/>
-<AboutHero/>
+<!-- <AboutHero/> -->
+<OurStoryHero/>
 <SoftwareDevPricing/>
 <Footer/>
     </div>
