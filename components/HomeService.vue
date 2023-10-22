@@ -5,7 +5,7 @@
         
           <div class="max-w-xl mb-6">
             <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              Mouthwatering taste,<span class="inline-block text-pink-700"> exceptional </span> service.
+              Mouthwatering taste,<span class="inline-block text-green-700"> exceptional </span> service.
             </h2>
             <p class="text-base text-gray-700 md:text-lg">
               Whether it is a birthday, a wedding, or any other special event, “A party without a cake is just a meeting!”
@@ -14,7 +14,7 @@
           </div>
           <div>
             <NuxtLink to="/products" aria-label=""
-              class="button arrow inline-flex text-pink-700 items-center font-semibold text-base md:text-lg hover:text-gray-700">
+              class="button arrow inline-flex text-green-700 items-center font-semibold text-base md:text-lg hover:text-gray-700">
               Our Products
             </NuxtLink>
           </div>
