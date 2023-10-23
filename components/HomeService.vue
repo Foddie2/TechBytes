@@ -13,9 +13,9 @@
             </p>
           </div>
           <div>
-            <NuxtLink to="/products" aria-label=""
+            <NuxtLink to="/services/consultancy" aria-label=""
               class="button arrow inline-flex text-green-700 items-center font-semibold text-base md:text-lg hover:text-gray-700">
-              Our Products
+              Our Services
             </NuxtLink>
           </div>
         </div>
