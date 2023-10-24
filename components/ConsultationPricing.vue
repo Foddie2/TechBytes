@@ -11,7 +11,7 @@
                 </div>
 
                 <p class="mt-4 font-medium text-gray-500 dark:text-gray-300">
-                    You can get All Access by selecting your plan!
+                    You can get All Services by selecting your plan!
                 </p>
 
              <!--    <a href="#" class="flex items-center mt-4 -mx-1 text-sm text-gray-700 capitalize dark:text-green-600 hover:underline hover:text-green-600 dark:hover:text-green-600">
@@ -21,10 +21,10 @@
             </div> 
 
             <div class="flex flex-col items-center justify-center space-y-8 lg:-mx-4 lg:flex-row lg:items-stretch lg:space-y-0">
-                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-green-200 rounded-lg lg:mx-4 dark:bg-gray-900 dark:border-gray-700">
+                <div class="flex flex-col w-full max-w-sm p-8 space-y-8 text-center bg-white border-2 border-green-200 rounded-lg lg:mx-4 hover:bg-green dark:bg-gray-900 dark:border-gray-700">
                     <div class="flex-shrink-0">
                         <h2 class="inline-flex items-center justify-center px-2 font-semibold tracking-tight text-green-600 uppercase rounded-lg bg-gray-50 dark:bg-gray-700">
-                            Basic
+                            Portfolio
                         </h2>
                     </div>
     
