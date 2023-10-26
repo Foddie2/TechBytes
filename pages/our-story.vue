@@ -3,7 +3,6 @@
         <Navbar/>
         <OurStoryHero/>
         <AboutHero/>
-
         <Footer/>
 
     </div>
