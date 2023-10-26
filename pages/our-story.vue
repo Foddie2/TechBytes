@@ -2,6 +2,7 @@
     <div>
         <Navbar/>
         <OurStoryHero/>
+        <OurstoryAbout/>
         <AboutHero/>
         <Footer/>
 
@@ -9,6 +10,8 @@
 </template>
 
 <script>
+import OurstoryAbout from '~/components/OurstoryAbout.vue';
+
 
 </script>
 
