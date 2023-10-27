@@ -3,11 +3,12 @@
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-5">
           <div class="relative md:col-span-2 lg:col-span-2">
             <img class="inset-0 object-cover object-bottom w-full h-56 rounded shadow-lg lg:absolute lg:h-full"
+              data-aos="zoom-in" data-aos-delay="500"
               src="https://images.pexels.com/photos/4974912/pexels-photo-4974912.jpeg"
               alt="" />
           </div>
           <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900 uppercase">
                   Choose a service
@@ -18,7 +19,7 @@
                 visualize doing the steps which help us when preparing.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900 uppercase">
                   Request a meeting
@@ -28,7 +29,7 @@
                 All recipes are written using certain conventions, which define our cake standards, designs, as well as adding new flavors to your taste accordingly.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900 uppercase">
                   Get custom plans
@@ -39,7 +40,7 @@
                 recipe. We prepare the quote at an affordable price and get the work done.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-9008 uppercase">
                   Successfully implement
