@@ -11,7 +11,7 @@
   <div
     class="relative mx-auto max-w-screen-xl px-4 py-10 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8"
   >
-    <div class="max-w-xl ltr:sm:text-left">
+    <div class="max-w-xl ltr:sm:text-left" data-aos="fade-up" data-aos-delay="300">
       <h1 class="text-3xl font-extrabold lg:text-6xl sm:text-5xl text-gray-50">
         Empowering Businesses through 
         <strong class="block font-extrabold text-green-700">
