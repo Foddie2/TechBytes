@@ -1,7 +1,7 @@
 <template>
     <header class="bg-white dark:bg-gray-900">
-        <div class="lg:flex mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
-            <div class="flex items-center justify-center w-full px-6 py-8 lg:h-[32rem] lg:w-1/2">
+        <div class="lg:flex mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-6 lg:pt-24">
+            <div class="flex items-center justify-center w-full py-8 lg:h-[32rem] lg:w-1/2">
                 <div class="max-w-xl">
                     <h2 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">We employ web design and development techniques that combine <span class="text-blue-600 dark:text-blue-400">style, content, and appeal! </span></h2>
     
