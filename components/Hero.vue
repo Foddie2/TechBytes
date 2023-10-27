@@ -19,7 +19,7 @@
         </strong>
       </h1>
 
-      <p class="mt-4 max-w-lg lg:text-4xl text-lg sm:text-xl/relaxed text-start text-gray-50">
+      <p class="mt-4 max-w-lg lg:text-4xl text sm:text-xl/relaxed text-start text-gray-50">
         Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
         
       </p>
