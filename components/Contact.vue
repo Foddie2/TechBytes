@@ -2,7 +2,7 @@
   <section class="mb-32 text-gray-800">
     <div class=" py-12 md:px-12">
       <div
-        class=" mx-auto px-4 py-8 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-10">
+        class=" mx-auto px-4 py-8 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-10" data-aos="fade-up" data-aos-delay="300">
         <div class="grid lg:grid-cols-2 items-center">
           <div class="md:mt-12 lg:mt-0 mb-12 lg:mb-0">
             <div class="block rounded-lg shadow-lg px-6 py-12 md:px-12 lg:-mr-14"
