@@ -15,6 +15,8 @@ export default defineNuxtConfig({
   modules: [
     "@nuxt/content",
     // "nuxt-newsletter",
+    "nuxt-purgecss",
+
 
 
   //Sending mails configs
