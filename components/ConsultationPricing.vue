@@ -92,7 +92,7 @@
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
-                            Content writing for 3 blog posts or pages
+                            PWA Intergration
                         </li>
                         <li class="text-gray-500 dark:text-gray-400">
                             Up To 15 pages
