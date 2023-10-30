@@ -3,7 +3,7 @@
         <div class="lg:flex mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-6 lg:pt-24">
             <div class="flex items-center justify-center w-full py-8 lg:h-[32rem] lg:w-1/2">
                 <div class="max-w-xl">
-                    <h2 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">We employ web design and development techniques that combine <span class="text-blue-600 dark:text-blue-400">style, content, and appeal! </span></h2>
+                    <h2 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-4xl">We employ Technical IT support, web design and development techniques that combine <span class="text-blue-600 dark:text-blue-400">style, content, and appeal! </span></h2>
     
                     <p class="mt-4 text-sm text-gray-500 dark:text-gray-400 lg:text-base">Firstly as many consumers move online, the possibility exists that the first point of interaction with your business is through your website.Therefore, a captivating website allows for a great introduction to your business while, creating a genuine desire for your company’s products or services..</p>
     
