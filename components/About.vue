@@ -10,12 +10,6 @@
             </span>
 
           </h2>
-     <!--      <p class="text-base text-gray-700">
-            From Vision to Reality, We Make IT Happen. <span class="italic hover:text-pink-700">a pot that bears goodies</span> is a passionate team
-            aimed at bridging the gaps left by the bakers to produce affordable cakes whilst taking into consideration health
-            issues. Our nature of affordability makes us a centre of choice for many, we yearn to maintain our cake standards,
-            designs, as well as adding new flavors to your taste accordingly.
-          </p> -->
         </div>
 
         <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
