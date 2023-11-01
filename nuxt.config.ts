@@ -21,7 +21,7 @@ export default defineNuxtConfig({
 
   //Sending mails configs
   //  '@nuxtjs/axios',
-    ['nuxt-mail', {
+    ['nuxt-mailer', {
       message: {
         to: 'bensonagala@live.com',
       },
@@ -37,5 +37,14 @@ export default defineNuxtConfig({
   ],
    content: {
     // https://content.nuxtjs.org/api/configuration
-  }
+  },
+
+  runtimeConfig: {
+    mailer: {
+      host: process.env.NUXT_MAILER_HOST,
+      port: process.env.NUXT_MAILER_PORT,
+      user: process.env.NUXT_MAILER_USER,
+      password: process.env.NUXT_MAILER_PASSWORD,
+    },
+  },
 })
