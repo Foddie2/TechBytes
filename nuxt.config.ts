@@ -1,10 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: false,
+  ssr: true,
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   plugins: [
-    { src: "@/plugins/aos", mode: "client", ssr: 'false'},
+    { src: "@/plugins/aos", mode: "client"},
   ],
   
   postcss: {
