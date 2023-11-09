@@ -10,7 +10,7 @@ export default defineEventHandler(async (event) => {
       text,
     });
     if(response.accepted.length) {
-      <Mail is successfully sent, handle as you please!>
+      "Message sent successfully"
     }
   });
   
