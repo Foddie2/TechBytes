@@ -1,3 +1,5 @@
+import useMailTransporter from "~/composables/useMailTransporter";
+
 export default defineEventHandler(async (event) => {
     const mailTransporter = useMailTransporter();
     const body = await readBody(event);
