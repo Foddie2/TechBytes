@@ -1,7 +1,7 @@
 <template>
     <div class="px-4 py-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
       <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12 " data-aos="fade-up" data-aos-delay="300">
-        <p class="text-base text-gray-700 md:text-lg">-
+        <div class="text-base text-gray-700 md:text-lg">
           <h2
           class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
           <span class="relative inline-block">
@@ -10,7 +10,8 @@
           </span>
 
         </h2>
-        Techbytes is an African Technology company that empowers organizations by focusing on the needs of people they serve; we enable our customers to deliver better outcomes.        </p>
+        Techbytes is an African Technology company that empowers organizations by focusing on the needs of people they serve; we enable our customers to deliver better outcomes 
+      </div>
       </div>
       <div class="grid gap-8 row-gap-5 mb-8 md:row-gap-8 lg:grid-cols-4 sm:grid-cols-2">
         <div class="duration-300 transform bg-white border-l-4 border-gray-200 hover:border-green-300 hover:-translate-y-2" data-aos="fade-up" data-aos-delay="300">
