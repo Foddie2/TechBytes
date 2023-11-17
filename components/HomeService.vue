@@ -5,7 +5,7 @@
         
           <div class="max-w-xl mb-6" data-aos="fade-up" data-aos-delay="300">
             <h2 class="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
-              Mouthwatering taste,<span class="inline-block text-green-700"> exceptional </span> service.
+              Unleashing the Power of  <span class="inline-block text-green-700"> Technology </span> for Your Business
             </h2>
             <p class="text-base text-gray-700 md:text-lg" data-aos="fade-up" data-aos-delay="300">
               Whether it is a birthday, a wedding, or any other special event, “A party without a cake is just a meeting!”
