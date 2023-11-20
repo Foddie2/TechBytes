@@ -17,6 +17,8 @@ export default defineNuxtConfig({
     "@nuxt/content",
     // "nuxt-newsletter",
     "nuxt-purgecss",
+    "@nuxtjs/pwa",
+
 
 
 
