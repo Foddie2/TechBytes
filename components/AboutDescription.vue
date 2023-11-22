@@ -39,15 +39,6 @@
             <span class="px-4 py-1 bg-green-400 text-white inline-flex items-center justify-center mb-2">Development</span>
             <h2 class="text-3xl font-semibold text-white leading-tight">Lorem ipsum dolor sit amet, consectetur
               adipisicing elit.</h2>
-         <!--    <div class="flex mt-3">
-              <img
-                src="https://images-na.ssl-images-amazon.com/images/M/MV5BODFjZTkwMjItYzRhMS00OWYxLWI3YTUtNWIzOWQ4Yjg4NGZiXkEyXkFqcGdeQXVyMTQ0ODAxNzE@._V1_UX172_CR0,0,172,256_AL_.jpg"
-                class="h-10 w-10 rounded-full mr-2 object-cover" />
-              <div>
-                <p class="font-semibold text-gray-200 text-sm"> Chrishell Staus </p>
-                <p class="font-semibold text-gray-400 text-xs"> 15 Aug </p>
-              </div>
-            </div> -->
           </div>
         </div>
 </div>
