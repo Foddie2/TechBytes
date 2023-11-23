@@ -1,51 +1,36 @@
 <template>
-    <div class="">
-        <div id="faq" class="faq-body mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
-          <div class="faq-header">
-            <h3 class="faq-title">FAQ's</h3>
-            <div class="seperator"></div>
-          </div>
-          <div class="faq-list">
-              <div>
-                <details open>
-                  <summary title="How can I pay for my appointment?">How can I pay for my appointment?</summary>
-                  <p class="faq-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed illo quod debitis ducimus iste soluta rerum ipsa consequuntur minus quae. Ea minus ex corporis, pariatur quia rerum sequi iusto odit enim expedita fugiat, assumenda molestiae earum iste blanditiis, ipsum ratione.</p>
-                </details>
-                </div>
-              <div>
-                <details>
-                  <summary title="What can I expect at my first consultation?">What can I expect at my first consultation?</summary>
-                  <p class="faq-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, molestias similique! Molestiae sapiente omnis, illo facere odit reprehenderit eveniet consequuntur sit minus adipisci temporibus eius inventore quidem. Dignissimos, facere quae. Rem quas a laborum est officia pariatur voluptatum iusto perferendis aut labore fugit magni inventore nulla architecto, velit, facilis itaque.</p>
-                </details>
-                </div>
-              <div>
-                <details>
-                  <summary title="What are your opening hours?">What are your opening hours?</summary>
-                  <p class="faq-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos error ea accusantium? Sunt cum in, repudiandae et facere at nesciunt commodi non quia earum libero aliquid labore obcaecati repellendus consequatur! Nesciunt impedit ducimus illum unde optio veritatis atque facere, voluptate a odio asperiores laudantium rerum.</p>
-                </details>
-                </div>
-              <div>
-                <details>
-                  <summary title="Do I need a referral?">Do I need a referral?</summary>
-                  <p class="faq-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quisquam numquam labore explicabo cupiditate laboriosam. Ipsam explicabo possimus illum aspernatur.</p>
-                </details>
-                </div>
-              <div>
-                <details>
-                  <summary title="Is the cost of the appointment covered by private health insurance?">Is the cost of the appointment covered by private health insurance?</summary>
-                  <p class="faq-content">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo quos quam asperiores enim sequi nihil? Iure blanditiis autem in ratione rerum, sequi cupiditate eos nemo iusto unde eaque voluptatum alias, porro aliquid sunt. Nesciunt veritatis, ex esse tempora laudantium officiis? Quas corrupti a aut sed quaerat, ipsa incidunt tempora velit dolor distinctio repellat tenetur illum consectetur quos veniam eius provident earum doloremque commodi! Minus amet, obcaecati rem, modi accusantium ad, deleniti possimus incidunt laudantium vitae iusto laborum culpa! Similique, repellat.</p>
-                </details>
-                </div>
-              <div>
-                    <details>
-                        <summary title="What are the parking and public transport options?">What are the parking and public transport options?</summary>
-                        <p class="faq-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis quisquam numquam labore explicabo cupiditate laboriosam. Ipsam explicabo possimus illum aspernatur.</p>
-                    </details>
-                </div>
-          </div>
-        </div>
-            </div>
-
+	<section class="dark:bg-gray-801 dark:text-gray-100">
+		<div class="container flex flex-col justify-center py-9 md:p-8 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
+			<h1 class="text-2xl font-semibold sm:text-4xl">Frequently Asked Questions</h1>
+			<p class="mt-5 mb-8 dark:text-gray-400">Sagittis tempor donec id vestibulum viverra. Neque condimentum primis orci at lacus amet bibendum.</p>
+			<div class="space-y-5">
+				<details class="w-full border rounded-lg">
+					<summary class="px-5 py-6 focus:outline-none focus-visible:ri bg-green-50">What is the cost of IT services?</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400">The cost of IT services can vary widely depending on several factors, including the type of service, the scale of your business, your specific needs, at Techbytes, we provide cheap full support to scale up your business needs.</p>
+				</details>
+				<details class="w-full border rounded-lg">
+					<summary class="px-5 py-4 focus:outline-none focus-visible:ri bg-green-50">How can IT services benefit small businesses?</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400 ">IT services offer numerous benefits to small businesses, helping them become more efficient, competitive, and secure. Here are some ways in which our IT services can benefit small businesses: Cost Savings, Increased Productivity, Improved Security, Business Continuity, Scalability, Access to Expertise, Compliance and Data Protection, 24/7 Support, Innovation and Competitive Edge, Focus on Core Competencies, Remote Work Support, Customer Service Improvement </p>
+				</details>
+				<details class="w-full border rounded-lg">
+					<summary class="px-5 py-6 focus:outline-none focus-visible:ri bg-green-50">What is managed IT services, and how does it work?</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400 ">This involves outsourcing the management and maintenance of a business's IT infrastructure and systems to a third-party provider. The goal of managed IT services is to ensure the optimal functionality, security, and performance of a company's IT environment while allowing the business to focus on its core operations.</p>
+				</details>
+                <details class="w-full border rounded-lg">
+					<summary class="px-5 py-6 focus:outline-none focus-visible:ri bg-green-50">Can you provide a roadmap for technology adoption and development for my business?</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400 ">IT services can significantly benefit your business's overall productivity and efficiency in the following ways: Streamlined Operations, Enhanced Communication, Increased Data Accessibility, Efficient Data Management, Scalability, Automated Tasks, Customer Relationship Management (CRM), Data Analytics, IT Support and Issue Resolution, Cloud Computing, Security Measures, Disaster Recovery, Proactive Monitoring, Compliance and Reporting, Business Intelligence. </p>
+				</details>
+                <details class="w-full border rounded-lg">
+					<summary class="px-5 py-6 focus:outline-none focus-visible:ri bg-green-50">We offers a free trial of its platform for a limited time. During the trial period, you will have access to a limited set of features and functionality, but you will not be charged.</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400 ">IT services can significantly benefit your business's overall productivity and efficiency in the following ways: Streamlined Operations, Enhanced Communication, Increased Data Accessibility, Efficient Data Management, Scalability, Automated Tasks, Customer Relationship Management (CRM), Data Analytics, IT Support and Issue Resolution, Cloud Computing, Security Measures, Disaster Recovery, Proactive Monitoring, Compliance and Reporting, Business Intelligence. </p>
+				</details>
+                <details class="w-full border rounded-lg">
+					<summary class="px-5 py-6 focus:outline-none focus-visible:ri bg-green-50">How can IT services benefit my business's overall productivity and efficiency?</summary>
+					<p class="px-5 py-6 pt-0 mt-4 dark:text-gray-400 ">IT services can significantly benefit your business's overall productivity and efficiency in the following ways: Streamlined Operations, Enhanced Communication, Increased Data Accessibility, Efficient Data Management, Scalability, Automated Tasks, Customer Relationship Management (CRM), Data Analytics, IT Support and Issue Resolution, Cloud Computing, Security Measures, Disaster Recovery, Proactive Monitoring, Compliance and Reporting, Business Intelligence. </p>
+				</details>
+			</div>
+		</div>
+	</section>   
 </template>
 
 <script>
@@ -55,122 +40,5 @@
 </script>
 
 <style lang="scss" scoped>
-body {
-    font-family: sans-serif;
-}
-
-div + div {
-    clear: both;
-}
-
-p {
-    line-height: 1.4em;
-    color: #9e9e9e;
-}
-
-.faq-title {
-    font-size: 2em;
-    margin: 0.4em 0;
-}
-
-div.seperator {
-    width: 7.5em;
-    background-color: #e31b1b;
-    height: 0.17em;
-    margin-left: -1.8em;
-}
-
-.faq-list > div {
-    border-bottom: 0.07em solid #ededed;
-    padding: 1.5em 0em;
-} 
-
-.faq-list > div:last-child {
-    border: unset;
-}
-
-details > summary {
-    list-style: none;
-}
-details > summary::-webkit-details-marker {
-    display: none;
-}
-
-summary {
-    font-size: 1.4em;
-    font-weight: bold;
-    cursor: pointer;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none; 
-    user-select: none;
-    transition: all 0.3s ease;
-}
-
-summary:hover {
-    color: #e31b1b;
-}
-
-details[open] summary ~ * {
-    animation: sweep .5s ease-in-out;
-}
-
-@keyframes sweep {
-    0%    {opacity: 0; margin-left: -10px}
-    100%  {opacity: 1; margin-left: 55px}
-}
-
-details[open] summary {
-    color: #e31b1b;
-}
-
-details[open] p {
-    border-left: 2px solid #e31b1b;
-    margin-left: 55px;
-    padding-left: 25px;
-    opacity: 100;
-    transition: all 3s ease;
-}
-
-details[open] summary:after {
-    content: "-";
-    font-size: 3.2em;
-    margin: -33px 0.35em 0 0;
-    font-weight: 200;
-}
-
-.faq-body {
-    width: 70em;
-    margin: 4em auto;
-    border-radius: 0.2em;
-    //padding: 5em;
-    background-color: #fff;
-}
-
-.faq-list {
-    width: 55em;
-    margin: 1em auto;
-    padding: 2em 0;
-}
-
-summary::-webkit-details-marker {
-    display: none;
-}
-
-summary:after {
-    background: transparent;
-    border-radius: 0.3em;
-    content: "+";
-    color: #e31b1b;
-    float: left;
-    font-size: 1.8em;
-    font-weight: bold;
-    margin: -0.3em 0.65em 0 0;
-    padding: 0;
-    text-align: center;
-    width: 25px;
-}
 
 </style>
