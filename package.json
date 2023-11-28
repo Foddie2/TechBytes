@@ -26,10 +26,6 @@
     "tailwindcss": "^3.3.3"
   },
 
-  "resolutions": {
-    "@nuxt/kit": "3.0.0-rc.13"
-  },
-  
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "aos": "^2.3.4",
