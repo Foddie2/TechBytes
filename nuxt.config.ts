@@ -18,6 +18,8 @@ export default defineNuxtConfig({
     // "nuxt-newsletter",
     "nuxt-purgecss",
     "@nuxtjs/pwa",
+    "@vite-pwa/nuxt",
+
 
 
 
