@@ -39,9 +39,6 @@
     "yarn": "^1.22.19"
   },
 
-  "resolutions": {
-    "@nuxt/kit": "3.0.0-rc.13"
-  },
   
   "type": "module"
 }
