@@ -19,6 +19,8 @@ export default defineNuxtConfig({
     "nuxt-purgecss",
     "@nuxtjs/pwa",
     "@vite-pwa/nuxt",
+    "@nuxt/postcss8",
+
 
 
 
