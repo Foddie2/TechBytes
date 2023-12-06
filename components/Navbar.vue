@@ -10,12 +10,10 @@
         <a href="/" class="inline-flex items-center">
           <svg width="40px" height="40px" viewBox="0 0 32 32" id="OBJECT" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><defs><component :is="'style'">.cls-1 {fill:#78f2b3;}</component></defs><title></title><path d="M28,10H10a3,3,0,0,0-3,3V23a3,3,0,0,0,3,3H20.32l1.38,3.44a2.48,2.48,0,0,0,4.6,0L27.68,26H28a3,3,0,0,0,3-3V13A3,3,0,0,0,28,10Z"></path><path class="cls-1" d="M22,1H4A3,3,0,0,0,1,4V14a3,3,0,0,0,3,3h.32L5.7,20.44a2.48,2.48,0,0,0,4.6,0L11.68,17H22a3,3,0,0,0,3-3V4A3,3,0,0,0,22,1Z"></path><path d="M17.07,7.49,12.44,5.18a1.66,1.66,0,0,0-1.64.07A1.68,1.68,0,0,0,10,6.68v4.64a1.68,1.68,0,0,0,.8,1.43,1.66,1.66,0,0,0,.88.25,1.7,1.7,0,0,0,.76-.18l4.63-2.31a1.69,1.69,0,0,0,0-3Z"></path><path class="cls-1" d="M16,21h-.5a1,1,0,0,1,0-2H16a1,1,0,0,1,0,2Z"></path><path class="cls-1" d="M20,21h-.5a1,1,0,0,1,0-2H20a1,1,0,0,1,0,2Z"></path><path class="cls-1" d="M24,21h-.5a1,1,0,0,1,0-2H24a1,1,0,0,1,0,2Z"></path></g></svg>
 
-
           <span class="logo text-xl font-bold tracking-wide text-stone-800"
             >TechBytes</span
           >
           <br/>
-          <!-- <span class="text-gray-500 text-lg ml-2"> today </span> -->
         </a>
 
         <ul class="items-center hidden space-x-8 lg:flex">
@@ -101,13 +99,6 @@
             </NuxtLink>
           </li>
           <div class="flex items-center space-x-4">
-       
-          <!--   <a
-              href="tel:+254711974716"
-              class="inline-flex items-center uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-10 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
-            >
-              Get support
-            </a> -->
             <NuxtLink to="/contact">
               <a href="tel:+254711974716"
               class="px-5 py-2.5 relative rounded group font-medium text-white uppercase inline-block">

@@ -71,10 +71,6 @@
                         <span class="pt-2 text-3xl font-bold text-gray-800 uppercase dark:text-gray-100">
                             Ksh 45,999/=
                         </span>
-                        
-                       <!--  <span class="text-gray-500 dark:text-gray-400">
-                            /month
-                        </span> -->
                     </div>
     
                     <ul class="flex-1 space-y-4">
@@ -123,10 +119,6 @@
                         <span class="pt-2 text-3xl font-bold text-gray-800 uppercase dark:text-gray-100">
                             Ksh 85,999/=
                         </span>
-    
-                      <!--   <span class="text-gray-500 dark:text-gray-400">
-                            /month
-                        </span> -->
                     </div>
     
                     <ul class="flex-1 space-y-4">
