@@ -44,7 +44,7 @@
 
   "resolutions": {
 
-    "@nuxt/kit": "@^3.8.1"
+    "@nuxt/kit": "3.0.0-rc.12"
   },
   "type": "module"
 }
