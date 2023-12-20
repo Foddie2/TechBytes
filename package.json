@@ -41,9 +41,7 @@
     "vue-router": "^4.2.5",
     "yarn": "^1.22.19"
   },
-
   "resolutions": {
-
     "@nuxt/kit": "3.0.0-rc.12"
   },
   "type": "module"
