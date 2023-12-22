@@ -13,35 +13,22 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: [
-    "@nuxt/content",
-    // "nuxt-newsletter",
-    "nuxt-purgecss",
-    "@nuxtjs/pwa",
-    "@vite-pwa/nuxt",
-    "@nuxt/postcss8",
-
-
-
-
-
-
-  //Sending mails configs
+  modules: ["@nuxt/content", // "nuxt-newsletter",
+  "nuxt-purgecss", "@nuxtjs/pwa", "@vite-pwa/nuxt", "@nuxt/postcss8", //Sending mails configs
   //  '@nuxtjs/axios',
-    ['nuxt-mailer', {
-      message: {
-        to: 'bensonagala@live.com',
+  ['nuxt-mailer', {
+    message: {
+      to: 'bensonagala@live.com',
+    },
+   smtp: {
+      host: 'smtp.mailtrap.io',
+      port: 2525,
+      auth: {
+        user: 'username',
+        pass: 'password'
       },
-     smtp: {
-        host: 'smtp.mailtrap.io',
-        port: 2525,
-        auth: {
-          user: 'username',
-          pass: 'password'
-        },
-      },
-    }], 
-  ],
+    },
+  }], "@nuxtjs/tailwindcss"],
    content: {
     // https://content.nuxtjs.org/api/configuration
   },
