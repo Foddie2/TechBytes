@@ -6,6 +6,7 @@ export default defineNuxtConfig({
   plugins: [
     { src: "@/plugins/aos", mode: "client"},
   ],
+  devServerHandlers: [],
   
   postcss: {
     plugins: {
