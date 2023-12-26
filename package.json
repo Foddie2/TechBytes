@@ -19,13 +19,13 @@
     "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^18.17.1",
     "@vite-pwa/nuxt": "^0.3.2",
-    "autoprefixer": "^10.4.16",
+    "autoprefixer": "^10.4.14",
     "nuxt": "^3.8.2",
     "nuxt-purgecss": "^2.0.0",
     "nuxt-vite": "^0.3.5",
-    "postcss": "^8.4.32",
+    "postcss": "^8.4.27",
     "sass": "^1.65.1",
-    "tailwindcss": "^3.4.0"
+    "tailwindcss": "^3.3.3"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
@@ -43,7 +43,7 @@
     "yarn": "^1.22.19"
   },
   "resolutions": {
-    "@nuxt/kit": "3.0.0-rc.13"
+    "@nuxt/kit": "3.0.0"
   },
   "type": "module"
 }
