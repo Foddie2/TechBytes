@@ -7807,7 +7807,7 @@ nuxt-vite@^0.3.5:
     vite "^2.5.7"
     vite-plugin-vue2 "^1.8.2"
 
-nuxt@^3.8.2, nuxt@^3.9.0:
+nuxt@^3.8.2:
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-3.9.0.tgz#a63e9a0a8d70d2233edd0f8ad87d13ed16ad84b7"
   integrity sha512-PiUQwJRBlclRrotcQAK95ueeRSiFhZmwNBj9MtIdWF4XK97OjNszUmNjKphqB7BsVcm089l0jZm1N0sYr7tMOg==
