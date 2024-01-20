@@ -4,7 +4,11 @@
         <OurStoryHero/>
         <OurstoryAbout/>
         <AboutHero/>
+<<<<<<< HEAD
         <NewFAQ/>
+=======
+        <FAQHome/>
+>>>>>>> refs/remotes/origin/main
         <Footer/>
 
     </div>
