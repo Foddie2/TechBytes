@@ -1578,6 +1578,14 @@
     semver "^7.3.5"
     tar "^6.1.11"
 
+"@material-tailwind/html@^2.2.2":
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/@material-tailwind/html/-/html-2.2.2.tgz#0d218456c74f0b6309debb5ceab2285af4e20907"
+  integrity sha512-sEu+3QKzJ9UVNWWpeKmDyBj3eek11KN1y6AZemSwxzVgkr7FZy+e6sY/8p6JeLS+b2cy7p1em3IV9Q/TUR3RdA==
+  dependencies:
+    deepmerge "^4.2.2"
+    material-ripple-effects "^2.0.1"
+
 "@netlify/functions@^2.4.0":
   version "2.4.1"
   resolved "https://registry.npmjs.org/@netlify/functions/-/functions-2.4.1.tgz"
@@ -6751,6 +6759,11 @@ markdown-table@^3.0.0:
   version "3.0.3"
   resolved "https://registry.npmjs.org/markdown-table/-/markdown-table-3.0.3.tgz"
   integrity sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==
+
+material-ripple-effects@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/material-ripple-effects/-/material-ripple-effects-2.0.1.tgz#47803d2ab1561698d930e2524a7a9a19fb2829b7"
+  integrity sha512-hHlUkZAuXbP94lu02VgrPidbZ3hBtgXBtjlwR8APNqOIgDZMV8MCIcsclL8FmGJQHvnORyvoQgC965vPsiyXLQ==
 
 mdast-util-find-and-replace@^3.0.0, mdast-util-find-and-replace@^3.0.1:
   version "3.0.1"

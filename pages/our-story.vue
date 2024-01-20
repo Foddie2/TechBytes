@@ -4,6 +4,7 @@
         <OurStoryHero/>
         <OurstoryAbout/>
         <AboutHero/>
+        <NewFAQ/>
         <Footer/>
 
     </div>
