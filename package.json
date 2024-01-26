@@ -41,5 +41,9 @@
     "vue-router": "^4.2.5",
     "yarn": "^1.22.19"
   },
+  "resolutions": {
+    "wrap-ansi": "7.0.0",
+    "string-width": "4.1.0"
+    },
   "type": "module"
 }
