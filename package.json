@@ -44,6 +44,7 @@
   "resolutions": {
     "wrap-ansi": "7.0.0",
     "string-width": "4.1.0"
-    },
-  "type": "module"
+  },
+  "type": "module",
+  "packageManager": "yarn@4.0.2"
 }
