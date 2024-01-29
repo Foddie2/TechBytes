@@ -22,7 +22,7 @@
               to="/our-story"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
-              Our Story
+              Home
             </NuxtLink>
           </li>
           <li>
@@ -30,7 +30,7 @@
               to="/pc-world"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
-              PC world
+              About Us
             </NuxtLink>
           </li>
         
@@ -169,14 +169,14 @@
                       to="/our-story"
                       class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
                     >
-                      Our Story
+                      Home
                     </NuxtLink>
                   </li>
                   <li>
                     <NuxtLink
                       to="/pc-world"
                       class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
-                      >PC World
+                      >About Us
                     </NuxtLink>
                   </li>
                            

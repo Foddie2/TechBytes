@@ -12,5 +12,5 @@ const transport = mailer.customTransporter({
   }
 });
 
-const useMailTransporter = () => transporter;
+const useMailTransporter = () => transport;
 export default useMailTransporter;
