@@ -4,6 +4,7 @@
         <AboutDescription/>
         <!-- <AboutHero/> -->
         <FAQ/>
+        <FaqAbout/>
         <Footer/>
 
     </div>
