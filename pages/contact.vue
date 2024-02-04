@@ -8,7 +8,6 @@
 </template>
 
 <script>
-import { useMailTransporter } from '~/composables/useMailTransporter.ts';
 
     export default {
         
