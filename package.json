@@ -19,7 +19,7 @@
     "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^18.17.1",
     "@vite-pwa/nuxt": "^0.4.0",
-    "nuxt": "^3.8.2",
+    "nuxt": "^3.10.0",
     "nuxt-purgecss": "^2.0.0",
     "nuxt-vite": "^0.0.27",
     "sass": "^1.65.1"
