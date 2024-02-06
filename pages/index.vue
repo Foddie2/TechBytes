@@ -10,6 +10,7 @@
         <ServiceHero/>
         <HomeBackground/>
         <Testimonials/>
+        <FAQ/>
         <Contact/>   
         <Footer/>
 
