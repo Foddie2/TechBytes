@@ -2,7 +2,7 @@
     <div>
         <Navbar/>
         <AboutDescription/>
-        <!-- <AboutHero/> -->
+        <AboutHero/>
         <Services2/>
         <FAQ/>
         <FaqAbout/>

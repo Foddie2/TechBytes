@@ -21,7 +21,9 @@ export default defineNuxtConfig({
     },
   },
   modules: ["@nuxt/content", // "nuxt-newsletter",
-  "nuxt-purgecss", //Sending mails configs
+  "nuxt-purgecss",
+  "@nuxt/image",
+  //Sending mails configs
   //  '@nuxtjs/axios',
   ['nuxt-mailer', {
     message: {
