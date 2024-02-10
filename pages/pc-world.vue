@@ -3,6 +3,7 @@
         <Navbar/>
         <AboutDescription/>
         <!-- <AboutHero/> -->
+        <Services2/>
         <FAQ/>
         <FaqAbout/>
         <Footer/>
