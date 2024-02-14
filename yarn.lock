@@ -3006,15 +3006,15 @@
     node-gyp-build "^4.2.2"
     resolve-from "^5.0.0"
 
-"@vite-pwa/nuxt@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@vite-pwa/nuxt/-/nuxt-0.4.0.tgz#e9961cbddaed283e10e64dd6cd82b6d9709b94dd"
-  integrity sha512-/8Nb/XI/lcCR8jmsbLmzheiMWJeOzHUMIWmcwsyQB8DtqjB5NaRAz8QBwSs1sx/sALJmKCYrbpMWppItYYYrBA==
+"@vite-pwa/nuxt@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@vite-pwa/nuxt/-/nuxt-0.5.0.tgz#ed18ca02b9780c59abf7f23599ea46c2672e58c0"
+  integrity sha512-5Si0Qpj9FGYmgrX52HJtY1OZKNDXJVmx17yULk0Karb7+6GKXhRcWP3DnFTEG7zkctXuzBli5sXjQaEEbEgy6w==
   dependencies:
     "@nuxt/kit" "^3.9.0"
     pathe "^1.1.1"
     ufo "^1.3.2"
-    vite-plugin-pwa ">=0.17.4 <1"
+    vite-plugin-pwa ">=0.18.1 <1"
 
 "@vitejs/plugin-legacy@^5.2.0":
   version "5.3.0"
@@ -11372,10 +11372,10 @@ vite-plugin-inspect@^0.8.1:
     picocolors "^1.0.0"
     sirv "^2.0.4"
 
-"vite-plugin-pwa@>=0.17.4 <1":
-  version "0.17.5"
-  resolved "https://registry.yarnpkg.com/vite-plugin-pwa/-/vite-plugin-pwa-0.17.5.tgz#e821c14ac776742e2921fea9833dd2664ad2969b"
-  integrity sha512-UxRNPiJBzh4tqU/vc8G2TxmrUTzT6BqvSzhszLk62uKsf+npXdvLxGDz9C675f4BJi6MbD2tPnJhi5txlMzxbQ==
+"vite-plugin-pwa@>=0.18.1 <1":
+  version "0.18.1"
+  resolved "https://registry.yarnpkg.com/vite-plugin-pwa/-/vite-plugin-pwa-0.18.1.tgz#040dfaa47cdf1aae10d47d6b931adb156cacf3e4"
+  integrity sha512-2A3BF52l9F8hCkdPy/VP2C+hA+fmBvzJGynCZc9XS6mHTcMvo9046FKc2NqlnkKwTOGtQEwXLEIduML/+eYtdw==
   dependencies:
     debug "^4.3.4"
     fast-glob "^3.3.2"

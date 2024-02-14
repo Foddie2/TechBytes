@@ -23,6 +23,8 @@ export default defineNuxtConfig({
   modules: ["@nuxt/content", // "nuxt-newsletter",
   "nuxt-purgecss",
   "@nuxt/image",
+  "@vite-pwa/nuxt",
+
   //Sending mails configs
   //  '@nuxtjs/axios',
   ['nuxt-mailer', {
