@@ -2,8 +2,7 @@
 
 <div align="center">
 
-<img src="assets/github-repo-logo.gif" alt="daily.dev animated logo" height="80">
-
+<img src="assets/github-repo-logo.gif" alt="daily.dev animated logo" height="
 <br>
 
 # Welcome to the daily.dev repository
