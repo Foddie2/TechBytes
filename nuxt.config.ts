@@ -8,6 +8,12 @@ export default defineNuxtConfig({
       enabled: true,
     },
   },
+
+  typescript: {
+    typeCheck: true
+  }, 
+
+  
   css: ['~/assets/css/main.css'],
   plugins: [
     { src: "@/plugins/aos", mode: "client"},
