@@ -13,26 +13,25 @@ export default defineNuxtConfig({
     typeCheck: true
   }, 
 
-  
+
   css: ['~/assets/css/main.css'],
   plugins: [
-    { src: "@/plugins/aos", mode: "client"},
+    { 
+      src: "@/plugins/aos", 
+      mode: "client"
+    },
   ],
   devServerHandlers: [],
-  
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
     },
   },
-  modules: ["@nuxt/content", // "nuxt-newsletter",
-  "nuxt-purgecss",
-  "@nuxt/image",
-  "@vite-pwa/nuxt",
+  modules: 
+  ["@nuxt/content","nuxt-purgecss","@nuxt/image","@vite-pwa/nuxt", // "nuxt-newsletter",
 
   //Sending mails configs
-  //  '@nuxtjs/axios',
   ['nuxt-mailer', {
     message: {
       to: 'bensonagala@live.com',
