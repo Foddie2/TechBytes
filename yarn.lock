@@ -3278,6 +3278,11 @@
   resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.5.1.tgz#7f71f31e40973eeee65b9a64382b13593fdbd697"
   integrity sha512-+KpckaAQyfbvshdDW5xQylLni1asvNSGme1JFs8I1+/H5pHEhqUKMEQD/qn3Nx5+/nycBq11qAEi8lk+LXI2dA==
 
+"@vue/devtools-api@^6.5.1":
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.6.1.tgz#7c14346383751d9f6ad4bea0963245b30220ef83"
+  integrity sha512-LgPscpE3Vs0x96PzSSB4IGVSZXZBZHpfxs+ZA1d+VEPwHdOXowy/Y2CsvCAIFrf+ssVU1pD1jidj505EpUnfbA==
+
 "@vue/language-core@1.8.27":
   version "1.8.27"
   resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-1.8.27.tgz#2ca6892cb524e024a44e554e4c55d7a23e72263f"
@@ -11613,6 +11618,13 @@ vue-devtools-stub@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/vue-devtools-stub/-/vue-devtools-stub-0.1.0.tgz#a65b9485edecd4273cedcb8102c739b83add2c81"
   integrity sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==
+
+vue-router@4:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.3.0.tgz#d5913f27bf68a0a178ee798c3c88be471811a235"
+  integrity sha512-dqUcs8tUeG+ssgWhcPbjHvazML16Oga5w34uCUmsk7i0BcnskoLGwjpa15fqMr2Fa5JgVBrdL2MEgqz6XZ/6IQ==
+  dependencies:
+    "@vue/devtools-api" "^6.5.1"
 
 vue-router@^4.2.5:
   version "4.2.5"

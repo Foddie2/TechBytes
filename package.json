@@ -40,7 +40,7 @@
     "nuxt-newsletter": "^0.2.0",
     "purgecss": "^5.0.0",
     "vue": "^3.3.11",
-    "vue-router": "^4.2.5",
+    "vue-router": "4",
     "yarn": "^1.22.19"
   },
   "resolutions": {
