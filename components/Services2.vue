@@ -4,7 +4,7 @@
     <div class="mx-auto max-w-lg text-center">
       <h2 class="text-3xl font-bold sm:text-4xl">Kickstart your marketing</h2>
 
-      <p class="mt-4 text-gray-300">
+      <p class="mt-4 text-gray-500">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur aliquam doloribus
         nesciunt eos fugiat. Vitae aperiam fugit consequuntur saepe laborum.
       </p>
@@ -12,12 +12,12 @@
 
     <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -36,19 +36,19 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -67,19 +67,19 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -98,19 +98,19 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -129,19 +129,19 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -160,19 +160,19 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
       <a
-        class="block rounded-xl border border-gray-800 p-8 shadow-xl transition hover:border-pink-500/10 hover:shadow-pink-500/10"
+        class="block rounded-xl border border-green-300 p-8 shadow-xl transition hover:border-green-500/10 hover:shadow-green-500/10"
         href="#"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          class="size-10 text-pink-500"
+          class="size-10 text-green-500"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
@@ -191,7 +191,7 @@
 
         <h2 class="mt-4 text-xl font-bold text-white">Digital campaigns</h2>
 
-        <p class="mt-1 text-sm text-gray-300">
+        <p class="mt-1 text-sm text-gray-500">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
           distinctio alias voluptatum blanditiis laudantium.
         </p>
@@ -201,7 +201,7 @@
     <div class="mt-12 text-center">
       <a
         href="#"
-        class="inline-block rounded bg-pink-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-pink-700 focus:outline-none focus:ring focus:ring-yellow-400"
+        class="inline-block rounded bg-green-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-green-700 focus:outline-none focus:ring focus:ring-yellow-400"
       >
         Get Started Today
       </a>
