@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-stone-900" data-aos="fade-up" data-aos-delay="300">
+  <footer class="bg-stone-900 sticky" data-aos="fade-up" data-aos-delay="300">
     <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
       <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
         <div>
