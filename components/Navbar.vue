@@ -19,7 +19,7 @@
         <ul class="items-center hidden space-x-8 lg:flex">
           <li>
             <NuxtLink
-              to="/home"
+              to="/our-story"
               class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
             >
               Home

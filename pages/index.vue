@@ -4,6 +4,7 @@
         <Hero/>
         <About/> 
         <HomeService/>
+        <Services2/>
         <AboutHome/>
 
         <ProcessFlow/>

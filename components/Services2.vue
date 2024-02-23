@@ -2,7 +2,7 @@
 <section class="bg-white text-gray-900">
   <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
     <div class="mx-auto max-w-lg text-center">
-      <h2 class="text-3xl font-bold sm:text-4xl">Kickstart your marketing</h2>
+      <h2 class="text-3xl font-bold sm:text-4xl">Our Services</h2>
 
       <p class="mt-4 text-gray-500">
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur aliquam doloribus
