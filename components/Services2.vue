@@ -1,6 +1,6 @@
 <template>
 <section class="bg-white text-gray-900">
-  <div class="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
+  <div class="mx-auto max-w-screen-xl px-4 py-12 sm:px-6 sm:py-12 lg:px-8 lg:py-16">
     <div class="mx-auto max-w-lg text-center">
       <h2 class="text-3xl font-bold sm:text-4xl">Our Services</h2>
 
@@ -198,14 +198,14 @@
       </a>
     </div>
 
-    <div class="mt-12 text-center">
+  <!--   <div class="mt-12 text-center">
       <a
         href="#"
         class="inline-block rounded bg-green-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-green-700 focus:outline-none focus:ring focus:ring-yellow-400"
       >
         Get Started Today
       </a>
-    </div>
+    </div> -->
   </div>
 </section>
 </template>
