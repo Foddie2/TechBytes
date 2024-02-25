@@ -4,11 +4,14 @@
         <Hero/>
         <About/> 
         <HomeService/>
-        <Services2/>
+        <!-- <Services2/> -->
         <AboutHome/>
 
         <ProcessFlow/>
-        <ServiceHero/>
+        <Services2/>
+                <ServiceHero/>
+
+
         <HomeBackground/>
         <Testimonials/>
         <FAQ/>
