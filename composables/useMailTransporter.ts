@@ -1,8 +1,7 @@
 import { useMailer } from '#mailer';
-const nuxtApp = useNuxtApp()
+// const nuxtApp = useNuxtApp()
 const config = useRuntimeConfig();
 const mailer = useMailer();
-
 const transport = mailer.customTransporter({
   host: config.mailer.host,
   port: +config.mailer.port,
@@ -11,6 +10,5 @@ const transport = mailer.customTransporter({
     pass: config.mailer.password
   }
 });
-
 const useMailTransporter = () => transport;
 export default useMailTransporter;
