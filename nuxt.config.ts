@@ -1,12 +1,11 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  // imports: { autoImport: false, },
   ssr: true,
   devtools: {
     enabled: true,
 
     timeline: {
-      enabled: true,
+      enabled: true,  
     },
   },
 
@@ -57,5 +56,9 @@ export default defineNuxtConfig({
       user: process.env.NUXT_MAILER_USER,
       password: process.env.NUXT_MAILER_PASSWORD,
     },
+  },
+
+  experimental: {
+    renderJsonPayloads: false,
   },
 })

@@ -1,6 +1,5 @@
-import { useNuxtApp } from '#imports';
 import { useMailer } from '#mailer';
-const nuxtApp = useNuxtApp()
+// const nuxtApp = useNuxtApp()
 const config = useRuntimeConfig();
 const mailer = useMailer();
 const transport = mailer.customTransporter({
