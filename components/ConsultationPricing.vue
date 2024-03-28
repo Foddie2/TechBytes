@@ -92,7 +92,7 @@
                         </li>
     
                         <li class="text-gray-500 dark:text-gray-400">
-                            PWA Intergration
+                            PWA Integration
                         </li>
                         <li class="text-gray-500 dark:text-gray-400">
                             Up To 15 pages

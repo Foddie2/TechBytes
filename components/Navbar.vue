@@ -20,7 +20,7 @@
           <li>
             <NuxtLink
               to="/"
-              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
             >
               Home
             </NuxtLink>
@@ -28,7 +28,7 @@
           <li>
             <NuxtLink
               to="/pc-world"
-              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
             >
               About Us
             </NuxtLink>
@@ -37,46 +37,46 @@
         <!--   <li>
             <NuxtLink
               to="/Blog"
-              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide text-gray-500 hover:text-blue-500 uppercase nav-link"
               >Blog
             </NuxtLink>
           </li> -->
-          <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">services
+          <li class="relative parent font-medium tracking-wide hover:text-blue-500 uppercase ">services
             <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
                   <ul class="child bg-opacity-90 transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
                     <li> 
                       <NuxtLink to="/services/consultancy">
-                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                           Consultancy
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/technical_IT-support">
-                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                           Technical & IT Support
                         </a>
                       </NuxtLink>
                     </li>
                     <li> 
                       <NuxtLink to="/services/software-development">
-                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                           Software Development
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/graphic-design">
-                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                           Graphic Design
                         </a>
                       </NuxtLink>
                     </li>
                     <li>
                       <NuxtLink to="/services/web-design_development">
-                        <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                        <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                           Web Design & Development
                         </a>
                       </NuxtLink>
@@ -86,7 +86,7 @@
           <li>
             <NuxtLink
               to="/how-to"
-              class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
             >
               How To
             </NuxtLink>
@@ -94,7 +94,7 @@
           <li>
             <NuxtLink
               to="/portfolio"
-              class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+              class="font-medium tracking-wide text-gray-500 hover:text-blue-500 uppercase nav-link"
               >Portfolio
             </NuxtLink>
           </li>
@@ -102,10 +102,10 @@
             <NuxtLink to="/contact">
               <a href="tel:+254711974716"
               class="px-5 py-2.5 relative rounded group font-medium text-white uppercase inline-block">
-              <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-green-600 to-teal-500"></span>
-              <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-green-400 to-teal-400"></span>
-              <span class="absolute inset-0 w-full h-full transition-all duration-200 ease-out rounded shadow-xl bg-gradient-to-br filter group-active:opacity-0 group-hover:blur-sm from-green-600 to-teal-500"></span>
-              <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-green-600 from-teal-500"></span>
+              <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-blue-600 to-teal-500"></span>
+              <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-blue-400 to-teal-400"></span>
+              <span class="absolute inset-0 w-full h-full transition-all duration-200 ease-out rounded shadow-xl bg-gradient-to-br filter group-active:opacity-0 group-hover:blur-sm from-blue-600 to-teal-500"></span>
+              <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-blue-600 from-teal-500"></span>
               <span class="relative">Get support</span>
               </a>
             </NuxtLink>
@@ -115,7 +115,7 @@
           <button
             aria-label="Open Menu"
             title="Open Menu"
-            class="p-2 -mr-1 transition duration-200 rounded focus:outline-none focus:shadow-outline hover:bg-green-70 focus:bg-green-70"
+            class="p-2 -mr-1 transition duration-200 rounded focus:outline-none focus:shadow-outline hover:bg-blue-70 focus:bg-blue-70"
             @click="isMenuOpen = true"
           >
             <svg class="w-5 text-gray-600" viewBox="0 0 24 24">
@@ -167,7 +167,7 @@
                   <li>
                     <NuxtLink
                       to="/home"
-                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
                     >
                       Home
                     </NuxtLink>
@@ -175,7 +175,7 @@
                   <li>
                     <NuxtLink
                       to="/pc-world"
-                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
                       >About Us
                     </NuxtLink>
                   </li>
@@ -183,46 +183,46 @@
                  <!--  <li>
                     <NuxtLink
                       to="/blog"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide text-gray-500 hover:text-blue-500 uppercase nav-link"
                       >Blog
                     </NuxtLink>
                   </li> -->
-                  <li class="relative parent font-medium tracking-wide hover:text-green-500 uppercase ">services
+                  <li class="relative parent font-medium tracking-wide hover:text-blue-500 uppercase ">services
                     <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
                           <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                         </a>
                           <ul class="child transition duration-300 md:absolute top-full right-0 md:w-52 bg-white md:shadow-lg md:rounded-b ">
                             <li> 
                               <NuxtLink to="/services/consultancy">
-                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                                   Consultancy
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/technical_IT-support">
-                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                                   Technical & IT Support
                                 </a>
                               </NuxtLink>
                             </li>
                             <li> 
                               <NuxtLink to="/services/software-development">
-                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                                   Software Development
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/graphic-design">
-                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                                   Graphic Design
                                 </a>
                               </NuxtLink>
                             </li>
                             <li>
                               <NuxtLink to="/services/web-design_development">
-                                <a href="" class="flex px-4 py-3 hover:bg-green-50">
+                                <a href="" class="flex px-4 py-3 hover:bg-blue-50">
                                   Web Design & Development
                                 </a>
                               </NuxtLink>
@@ -232,14 +232,14 @@
                   <li>
                     <NuxtLink
                       to="/how-to"
-                      class="font-medium tracking-wide hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide hover:text-blue-500 uppercase nav-link"
                       >How To
                     </NuxtLink>
                   </li>
                   <li>
                     <NuxtLink
                       to="/portfolio"
-                      class="font-medium tracking-wide text-gray-500 hover:text-green-500 uppercase nav-link"
+                      class="font-medium tracking-wide text-gray-500 hover:text-blue-500 uppercase nav-link"
                       >Portfolio
                     </NuxtLink>
                   </li>
@@ -247,17 +247,17 @@
                     <div class="flex items-center space-x-4">
                   <!--     <a
                         href="tel:+254711974716"
-                        class="inline-flex items-center mt-7 uppercase font-bold bg-green-500 hover:bg-white hover:text-green-500 justify-center h-12 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
+                        class="inline-flex items-center mt-7 uppercase font-bold bg-blue-500 hover:bg-white hover:text-blue-500 justify-center h-12 px-6 mr-6 tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid"
                       >
                         Get support
                       </a> -->
                       <NuxtLink to="/contact">
                       <a href="tel:+254711974716"
                       class="px-5 py-2.5 relative rounded group font-medium text-white uppercase inline-block">
-                      <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-green-600 to-teal-500"></span>
-                      <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-green-400 to-teal-400"></span>
-                      <span class="absolute inset-0 w-full h-full transition-all duration-200 ease-out rounded shadow-xl bg-gradient-to-br filter group-active:opacity-0 group-hover:blur-sm from-green-600 to-teal-500"></span>
-                      <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-green-600 from-teal-500"></span>
+                      <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-blue-600 to-teal-500"></span>
+                      <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-blue-400 to-teal-400"></span>
+                      <span class="absolute inset-0 w-full h-full transition-all duration-200 ease-out rounded shadow-xl bg-gradient-to-br filter group-active:opacity-0 group-hover:blur-sm from-blue-600 to-teal-500"></span>
+                      <span class="absolute inset-0 w-full h-full transition duration-200 ease-out rounded bg-gradient-to-br to-blue-600 from-teal-500"></span>
                       <span class="relative">Get support</span>
                       </a>
                       </NuxtLink>
@@ -316,7 +316,7 @@ const navigation = [
 }
 
 .nav-link {
-  background-image: linear-gradient(to right, #78f2b3, #03bdae 50%, #000 50%);
+  background-image: linear-gradient(to right, #78bff2, #012392 50%, #000 50%);
   background-size: 200% 100%;
   background-position: -100%;
   display: inline-block;
@@ -329,7 +329,7 @@ const navigation = [
 
 .nav-link:before {
   content: "";
-  background: #78f2b3;
+  background: #4e74f2;
   display: block;
   position: absolute;
   bottom: -3px;
