@@ -34,7 +34,7 @@ export default defineNuxtConfig({
   //Sending mails configs
   ['nuxt-mailer', {
     message: {
-      to: 'bensonagala@live.com',
+      to: 'bensonagala1992@gmail.com',
     },
    smtp: {
       host: 'smtp.mailtrap.io',
