@@ -8,11 +8,12 @@
     >
       <div class="relative flex items-center justify-between">
         <a href="/" class="inline-flex items-center">
-          <span class="logo text-xl font-bold tracking-wide text-stone-800"
-          >Tech</span
-        ><span class="bg-stone-800 text-white rounded-r-lg logo text-xl font-bold tracking-wide hover:bg-blue-700">
+          <span class="logo text-xl font-bold tracking-wide text-stone-800">
+            Tech
+          </span>
+          <span class="bg-stone-800 text-white rounded-r-lg logo text-xl font-bold tracking-wide hover:bg-blue-700">
           Bytes
-        </span>
+          </span>
           <br/>
         </a>
 
@@ -138,11 +139,12 @@
               <div class="flex items-center justify-between mb-4">
                 <div>
                   <a href="/" class="inline-flex items-center">
-                    <span class="logo text-xl font-bold tracking-wide text-stone-800"
-                    >Tech</span
-                  ><span class="bg-stone-800 text-white rounded-r-lg logo text-xl font-bold tracking-wide">
-                    Bytes
-                  </span>
+                    <span class="logo text-xl font-bold tracking-wide text-stone-800">
+                      Tech
+                    </span>
+                    <span class="bg-stone-800 text-white rounded-r-lg logo text-xl font-bold tracking-wide">
+                      Bytes
+                    </span>
                     <!-- <span class="text-gray-500 text-lg ml-2"> today </span> -->
                   </a>
                 </div>

@@ -8,7 +8,7 @@
               alt="" />
           </div>
           <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50" data-aos="fade-up" data-aos-delay="300">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-blue-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-900 uppercase">
                   Choose a service
@@ -40,7 +40,7 @@
                 recipe. We prepare the quote at an affordable price and get the work done.
               </p>
             </div>
-            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-green-50" data-aos="fade-up" data-aos-delay="300">
+            <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-blue-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
                 <p class="text-xl font-semibold text-gray-9008 uppercase">
                   Successfully implement

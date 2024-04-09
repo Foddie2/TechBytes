@@ -12,9 +12,9 @@
           </div>
         </div>
   
-        <div class="relative flex items-center bg-green-50">
+        <div class="relative flex items-center bg-blue-50">
           <span
-            class="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-green-50"
+            class="hidden lg:absolute lg:inset-y-0 lg:-start-16 lg:block lg:w-16 lg:bg-blue-50"
           ></span>
   
           <div class="p-8 sm:p-16 lg:p-24">
@@ -30,7 +30,7 @@
   
             <a
               href="#"
-              class="mt-8 inline-block rounded border border-green-600 bg-green-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-green-600 focus:outline-none focus:ring active:text-green-500"
+              class="mt-8 inline-block rounded border border-blue-600 bg-blue-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-blue-600 focus:outline-none focus:ring active:text-blue-500"
             >
               Get in Touch
             </a>

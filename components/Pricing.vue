@@ -24,7 +24,7 @@
   <div class="-mx-4 flex flex-wrap justify-center">
     <div class="w-full px-4 md:w-1/2 lg:w-1/3">
       <div
-        class="hover:bg-green-500 relative z-10 mb-10 overflow-hidden rounded-xl border border-primary border-opacity-20 bg-white py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-12"
+        class="hover:bg-blue-500 relative z-10 mb-10 overflow-hidden rounded-xl border border-primary border-opacity-20 bg-white py-10 px-8 shadow-pricing sm:p-12 lg:py-10 lg:px-6 xl:p-12"
       >
         <span class="mb-4 block text-lg font-semibold text-primary">
           Personal

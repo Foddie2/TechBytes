@@ -3,13 +3,14 @@
     <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
       <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
         <div>
-          <div class="flex justify-center text-green-600 sm:justify-start">
+          <div class="flex justify-center text-blue-600 sm:justify-start">
             <a href="/" class="inline-flex items-center">
-              <span class="logo text-xl font-bold tracking-wide rounded-l-lg text-stone-800 bg-white"
-          >Tech</span
-        ><span class="text-white rounded-r-lg logo text-xl font-bold tracking-wide">
-          Bytes
-        </span>
+              <span class="logo text-xl font-bold tracking-wide rounded-l-lg text-stone-800 bg-white">
+                Tech
+              </span>
+              <span class="text-white rounded-r-lg logo text-xl font-bold tracking-wide">
+                Bytes
+              </span>
             </a>
           </div>
 
@@ -26,7 +27,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-500 transition hover:text-green-500/75"
+                class="text-blue-500 transition hover:text-blue-500/75"
               >
                 <span class="sr-only">Facebook</span>
                 <svg
@@ -49,7 +50,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-500 transition hover:text-green-500/75"
+                class="text-blue-500 transition hover:text-blue-500/75"
               >
                 <span class="sr-only">Instagram</span>
                 <svg
@@ -72,7 +73,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-500 transition hover:text-green-500/75"
+                class="text-blue-500 transition hover:text-blue-500/75"
               >
                 <span class="sr-only">Twitter</span>
                 <svg
@@ -93,7 +94,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-500 transition hover:text-green-500/75"
+                class="text-blue-500 transition hover:text-blue-500/75"
               >
                 <span class="sr-only">GitHub</span>
                 <svg
@@ -116,7 +117,7 @@
                 href="/"
                 rel="noreferrer"
                 target="_blank"
-                class="text-green-500 transition hover:text-green-500/75"
+                class="text-blue-500 transition hover:text-blue-500/75"
               >
                 <span class="sr-only">Dribbble</span>
                 <svg
@@ -224,10 +225,10 @@
 
                   <span class="relative flex h-3 w-3">
                     <span
-                      class="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75"
+                      class="absolute inline-flex h-full w-full animate-ping rounded-full bg-blue-400 opacity-75"
                     ></span>
                     <span
-                      class="relative inline-flex h-3 w-3 rounded-full bg-green-500"
+                      class="relative inline-flex h-3 w-3 rounded-full bg-blue-500"
                     ></span>
                   </span>
                 </a>
@@ -246,7 +247,7 @@
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="h-5 w-5 shrink-0 text-green-500"
+                    class="h-5 w-5 shrink-0 text-blue-500"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -270,7 +271,7 @@
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="h-5 w-5 shrink-0 text-green-500"
+                    class="h-5 w-5 shrink-0 text-blue-500"
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
@@ -292,7 +293,7 @@
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  class="h-5 w-5 shrink-0 text-green-500"
+                  class="h-5 w-5 shrink-0 text-blue-500"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
@@ -325,7 +326,7 @@
             <span class="block sm:inline">All rights reserved.</span>
 
             <a
-              class="inline-block text-green-600 underline transition hover:text-green-600/75"
+              class="inline-block text-blue-600 underline transition hover:text-blue-600/75"
               href="/"
             >
               Terms & Conditions
@@ -334,7 +335,7 @@
             <span>&middot;</span>
 
             <a
-              class="inline-block text-green-600 underline transition hover:text-green-600/75"
+              class="inline-block text-blue-600 underline transition hover:text-blue-600/75"
               href="/"
             >
               Privacy Policy

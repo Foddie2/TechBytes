@@ -12,7 +12,7 @@
             style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
           <img src="https://images.pexels.com/photos/459654/pexels-photo-459654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
           <div class="p-4 absolute bottom-0 left-0 z-10">
-            <span class="px-4 py-1 bg-green-400 text-gray-200 inline-flex items-center justify-center mb-2">Technology</span>
+            <span class="px-4 py-1 bg-blue-400 text-gray-200 inline-flex items-center justify-center mb-2">Technology</span>
             <h2 class="text-4xl font-semibold text-gray-100 leading-tight">
               Pellentesque a consectetur velit, ac molestie ipsum. Donec sodales, massa et auctor.
             </h2>
@@ -36,7 +36,7 @@
             style="background-image: linear-gradient(180deg,transparent,rgba(0,0,0,.7));"></div>
           <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" class="absolute left-0 top-0 w-full h-full rounded z-0 object-cover" />
           <div class="p-4 absolute bottom-0 left-0">
-            <span class="px-4 py-1 bg-green-400 text-white inline-flex items-center justify-center mb-2">Development</span>
+            <span class="px-4 py-1 bg-blue-400 text-white inline-flex items-center justify-center mb-2">Development</span>
             <h2 class="text-3xl font-semibold text-white leading-tight">Lorem ipsum dolor sit amet, consectetur
               adipisicing elit.</h2>
           </div>
@@ -138,7 +138,7 @@
             <ul>
               <li class="px-1 py-4 border-b border-t border-white hover:border-gray-200 transition duration-300">
                 <a href="#" class="flex items-center text-gray-600 cursor-pointer">
-                  <span class="inline-block h-4 w-4 bg-green-300 mr-3"></span>
+                  <span class="inline-block h-4 w-4 bg-blue-300 mr-3"></span>
                   Apple
                   <span class="text-gray-500 ml-auto">23 articles</span>
                   <i class='text-gray-500 bx bx-right-arrow-alt ml-1'></i>

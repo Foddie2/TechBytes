@@ -1,12 +1,12 @@
 <template>
-    <div class="bg-green-50">
+    <div class="bg-blue-50">
         <div
           class="mx-auto max-w-screen-xl px-4 py-20 lg:flex lg:items-center  "
         >
           <div class="mx-auto max-w-xl text-center" data-aos="fade-up" data-aos-delay="300">
             <h1 class="text-6xl font-extrabold sm:text-5xl text-gray-900 about-us">
                 Digital transformation 
-              <strong class="font-black text-green-700 sm:block">
+              <strong class="font-black text-blue-700 sm:block">
                 begins here.
               </strong>
             </h1>
