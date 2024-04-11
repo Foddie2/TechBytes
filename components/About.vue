@@ -3,9 +3,9 @@
     <div class="container py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
         <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12" data-aos="fade-up" data-aos-delay="300">
           <h2
-            class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-gray-900 sm:text-4xl md:mx-auto">
+            class="max-w-lg mb-6 font-sans text-3xl font-bold leading-none tracking-tight text-stone-950 sm:text-4xl md:mx-auto">
             <span class="relative inline-block">
-              We provide    Software development & IT services 
+              We provide Software development & IT services 
 
             </span>
 
@@ -20,9 +20,9 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Competitive Advantage</h1>
+                <h1 class="text-xl font-semibold text-stone-700 capitalize dark:text-white">Competitive Advantage</h1>
 
-                <p class="text-gray-600 dark:text-gray-300">
+                <p class="text-stone-600 dark:text-stone-300">
                     In a competitive market, having top-notch IT infrastructure gives you an edge. Your business can respond faster to market changes and customer demands.                </p>
 
                 <a href="https://wa.me/254711974716" class="flex items-center -mx-1 text-sm text-blue-600 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-600">
@@ -38,9 +38,9 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white">Enhanced Efficiency</h1>
+                <h1 class="text-xl font-semibold text-stone-700 capitalize dark:text-white">Enhanced Efficiency</h1>
 
-                <p class="text-gray-600 dark:text-gray-300">
+                <p class="text-stone-600 dark:text-stone-300">
                     IT services streamline processes and automate repetitive tasks, freeing up your employees to focus on more strategic, revenue-generating activities.
                 </p>
 
@@ -57,9 +57,9 @@
                     </svg>
                 </span>
 
-                <h1 class="text-xl font-semibold text-gray-700 capitalize dark:text-white"> Cost Savings  </h1>
+                <h1 class="text-xl font-semibold text-stone-700 capitalize dark:text-white"> Cost Savings  </h1>
 
-                <p class="text-gray-600 dark:text-gray-300">
+                <p class="text-stone-600 dark:text-stone-300">
                     Outsourcing IT services can be more cost-effective than maintaining an in-house IT department. You'll have access to experts without the full-time salary costs.                </p>
 
                <!--  <a class="flex items-center -mx-1 text-sm text-blue-600 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-600">

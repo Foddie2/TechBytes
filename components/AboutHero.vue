@@ -22,7 +22,7 @@
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, debitis.
             </h2>
   
-            <p class="mt-4 text-gray-600">
+            <p class="mt-4 text-stone-600">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, molestiae! Quidem est
               esse numquam odio deleniti, beatae, magni dolores provident quaerat totam eos, aperiam
               architecto eius quis quibusdam fugiat dicta.

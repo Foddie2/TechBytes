@@ -10,43 +10,43 @@
           <div class="grid gap-6 md:grid-cols-2 md:col-span-2 lg:col-span-3">
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-blue-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900 uppercase">
+                <p class="text-xl font-semibold text-stone-900 uppercase">
                   Choose a service
                 </p>
               </div>
-              <p class="text-base text-gray-700">
+              <p class="text-base text-stone-700">
                 We take a good look at the recipe in place. Not just skimming it; we read it through from start to finish. We then
                 visualize doing the steps which help us when preparing.
               </p>
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900 uppercase">
+                <p class="text-xl font-semibold text-stone-900 uppercase">
                   Request a meeting
                 </p>
               </div>
-              <p class="text-base text-gray-700">
+              <p class="text-base text-stone-700">
                 All recipes are written using certain conventions, which define our cake standards, designs, as well as adding new flavors to your taste accordingly.
               </p>
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-teal-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-900 uppercase">
+                <p class="text-xl font-semibold text-stone-900 uppercase">
                   Get custom plans
                 </p>
               </div>
-              <p class="text-base text-gray-700">
+              <p class="text-base text-stone-700">
                 We get “prep time” and “total time” listed at the top to be sure we have enough time to complete the
                 recipe. We prepare the quote at an affordable price and get the work done.
               </p>
             </div>
             <div class="rounded lg:p-5 lg:transition lg:duration-300 lg:hover:bg-blue-50" data-aos="fade-up" data-aos-delay="300">
               <div class="flex items-center mb-1">
-                <p class="text-xl font-semibold text-gray-9008 uppercase">
+                <p class="text-xl font-semibold text-stone-9008 uppercase">
                   Successfully implement
                 </p>
               </div>
-              <p class="text-base text-gray-700">
+              <p class="text-base text-stone-700">
                 Tenderness in baking is usually the result of simple, but superb technique— proper measuring, mixing, and timing. we bake and deliver at your door step.
               </p>
             </div>

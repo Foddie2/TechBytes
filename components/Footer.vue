@@ -1,9 +1,9 @@
 <template>
-  <footer class="bg-stone-900 sticky" data-aos="fade-up" data-aos-delay="300">
+  <footer class="bg-stone-950 sticky" data-aos="fade-up" data-aos-delay="300">
     <div class="mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
       <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
         <div>
-          <div class="flex justify-center text-blue-600 sm:justify-start">
+          <div class="flex justify-start text-blue-600 sm:justify-start">
             <a href="/" class="inline-flex items-center">
               <span class="logo text-xl font-bold tracking-wide rounded-l-lg text-stone-800 bg-white">
                 Tech
@@ -15,7 +15,7 @@
           </div>
 
           <p
-            class="mt-6 max-w-md text-center leading-relaxed text-gray-500 sm:max-w-xs sm:text-left"
+            class="mt-6 max-w-md text-start leading-relaxed text-stone-500 sm:max-w-xs sm:text-left"
           >
           Advancing Possibilities through Revolutionary Technology
 
@@ -139,29 +139,29 @@
 
         <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-4 lg:col-span-2">
           <div class="text-center sm:text-left">
-            <p class="text-lg font-medium text-gray-300">About Us</p>
+            <p class="text-lg font-medium text-stone-300">About Us</p>
 
             <ul class="mt-8 space-y-4 text-sm">
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Company History
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Meet the Team
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Employee Handbook
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Careers
                 </a>
               </li>
@@ -169,29 +169,29 @@
           </div>
 
           <div class="text-center sm:text-left">
-            <p class="text-lg font-medium text-gray-300">Our Services</p>
+            <p class="text-lg font-medium text-stone-300">Our Services</p>
 
             <ul class="mt-8 space-y-4 text-sm">
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Web Design Development
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Technical support
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Graphic Design
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Consultancy
                 </a>
               </li>
@@ -199,17 +199,17 @@
           </div>
 
           <div class="text-center sm:text-left">
-            <p class="text-lg font-medium text-gray-300">Helpful Links</p>
+            <p class="text-lg font-medium text-stone-300">Helpful Links</p>
 
             <ul class="mt-8 space-y-4 text-sm">
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   FAQs
                 </a>
               </li>
 
               <li>
-                <a class="text-gray-500 transition hover:text-gray-500/75" href="/">
+                <a class="text-stone-500 transition hover:text-stone-500/75" href="/">
                   Support
                 </a>
               </li>
@@ -219,7 +219,7 @@
                   class="group flex justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end"
                   href="/"
                 >
-                  <span class="text-gray-500 transition group-hover:text-gray-500/75">
+                  <span class="text-stone-500 transition group-hover:text-stone-500/75">
                     Live Chat
                   </span>
 
@@ -237,7 +237,7 @@
           </div>
 
           <div class="text-center sm:text-left">
-            <p class="text-lg font-medium text-gray-300">Contact Us</p>
+            <p class="text-lg font-medium text-stone-300">Contact Us</p>
 
             <ul class="mt-8 space-y-4 text-sm">
               <li>
@@ -260,7 +260,7 @@
                     />
                   </svg>
 
-                  <span class="flex-1 text-gray-500">Bensonagala@live.com</span>
+                  <span class="flex-1 text-stone-500">Bensonagala@live.com</span>
                 </a>
               </li>
 
@@ -284,12 +284,12 @@
                     />
                   </svg>
 
-                  <span class="flex-1 text-gray-500">+254711974716</span>
+                  <span class="flex-1 text-stone-500">+254711974716</span>
                 </a>
               </li>
 
               <li
-                class="flex items-start justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end text-gray-500"
+                class="flex items-start justify-center gap-1.5 ltr:sm:justify-start rtl:sm:justify-end text-stone-500"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -311,7 +311,7 @@
                   />
                 </svg>
 
-                <address class="-mt-0.5 flex-1 not-italic text-gray-500">
+                <address class="-mt-0.5 flex-1 not-italic text-stone-500">
                   Donholm, Nairobi, Kenya
                 </address>
               </li>
@@ -320,9 +320,9 @@
         </div>
       </div>
 
-      <div class="mt-12 border-t border-gray-500 pt-6">
+      <div class="mt-12 border-t border-stone-500 pt-6">
         <div class="text-center sm:flex sm:justify-between sm:text-left">
-          <p class="text-sm text-gray-500">
+          <p class="text-sm text-stone-500">
             <span class="block sm:inline">All rights reserved.</span>
 
             <a
@@ -342,7 +342,7 @@
             </a>
           </p>
 
-          <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
+          <p class="mt-4 text-sm text-stone-500 sm:order-first sm:mt-0">
             &copy; 2023 TechBytes
           </p>
         </div>
