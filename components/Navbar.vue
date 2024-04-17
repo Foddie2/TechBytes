@@ -29,7 +29,7 @@
           </li>
           <li>
             <NuxtLink
-              to="/pc-world"
+              to="/about-us"
               class="font-medium tracking-wide text-stone-950 hover:text-blue-500 uppercase nav-link"
             >
               About Us
@@ -178,7 +178,7 @@
                   </li>
                   <li>
                     <NuxtLink
-                      to="/pc-world"
+                      to="/about-us"
                       class="font-medium tracking-wide text-stone-950 hover:text-blue-500 uppercase nav-link"
                       >About Us
                     </NuxtLink>

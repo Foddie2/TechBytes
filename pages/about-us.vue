@@ -3,6 +3,7 @@
         <Navbar/>
         <AboutDescription/>
         <AboutHero/>
+        <WhyUs/>
         <Services2/>
         <FAQ/>
         <FaqAbout/>
