@@ -5,7 +5,7 @@
     
                 <div class="lg:text-center">
                     <h2
-                        class="font-heading mb-4 bg-orange-100 text-orange-800 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest text-black uppercase title-font">
+                        class="font-heading mb-4 bg-orange-100 text-black-800 px-4 py-2 rounded-lg md:w-64 md:mx-auto text-xs font-semibold tracking-widest text-black uppercase title-font">
                         Why choose us?
                     </h2>
                     <p class="font-heading mt-2 text-3xl leading-8 font-semibold tracking-tight text-gray-900 sm:text-4xl">

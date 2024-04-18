@@ -12,7 +12,7 @@
           <span class="logo text-xl font-bold tracking-wide text-stone-950">
             Tech
           </span>
-          <span class="bg-stone-950 text-white rounded-r-lg logo text-xl font-bold tracking-wide hover:bg-blue-700">
+          <span class="bg-stone-950 text-white rounded-r-lg logo text-xl font-bold tracking-wide  ">
           Bytes
           </span>
           <br/>
