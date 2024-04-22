@@ -2,6 +2,7 @@
     <div>
         <Navbar/>
         <AboutHero/>
+        <WebDevStack/>
         <Footer/>
 
     </div>
