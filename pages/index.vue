@@ -14,7 +14,7 @@
 
         <HomeBackground/>
         <Testimonials/>
-        <FAQ/>
+        <!-- <FAQ/> -->
         <Contact/>   
         <Footer/>
 
