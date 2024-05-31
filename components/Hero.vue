@@ -14,7 +14,7 @@
     <div class="max-w-xl ltr:sm:text-left" data-aos="fade-up" data-aos-delay="300">
       <h1 class="text-3xl font-extrabold lg:text-6xl sm:text-5xl text-stone-50">
         Empowering Businesses through 
-        <strong class="block font-extrabold text-blue-700">
+        <strong class="block font-extrabold text-stone-700">
           Technology
         </strong>
       </h1>
